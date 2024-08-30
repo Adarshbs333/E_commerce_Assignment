@@ -1,0 +1,1001 @@
+Transaction_ID,Product_ID,Product_Category,Product_Subcategory,Product_Price,Quantity_Sold,Transaction_Date,Customer_ID,Customer_Location,Payment_Method,Total_Sales,Transaction_Month
+1,151,Clothing,Mobile,11.14,11,2023-02-12,1017,Florida,PayPal,122.54,2
+2,192,Electronics,Fiction,237.04,10,2023-01-21,1016,New York,Debit Card,2370.4,1
+3,114,Books,Fiction,154.13,19,2023-11-02,1037,New York,Debit Card,2928.47,11
+4,171,Groceries,Board Game,301.19,14,2023-07-23,1013,New York,Credit Card,4216.66,7
+5,160,Clothing,Board Game,152.13,10,2022-03-19,1086,Florida,Cash,1521.3,3
+6,120,Electronics,Laptop,153.46,15,2022-07-13,1088,California,Debit Card,2301.9,7
+7,182,Toys,Laptop,372.88,19,2022-10-12,1078,Illinois,Debit Card,7084.72,10
+8,186,Books,Mobile,28.83,4,2023-06-11,1055,Florida,Debit Card,115.32,6
+9,174,Clothing,Board Game,451.93,2,2023-06-08,1021,California,Cash,903.86,6
+10,174,Clothing,Non-fiction,426.87,9,2023-09-05,1066,California,Cash,3841.83,9
+11,187,Groceries,Non-fiction,335.56,10,2022-06-05,1055,Florida,Credit Card,3355.6,6
+12,199,Groceries,Mobile,298.64,11,2022-12-06,1018,Florida,PayPal,3285.04,12
+13,123,Toys,Non-fiction,446.69,14,2022-05-05,1056,California,Cash,6253.66,5
+14,102,Toys,Action Figure,96.74,7,2022-10-07,1043,California,PayPal,677.18,10
+15,121,Electronics,Pants,44.09,15,2023-09-14,1097,California,PayPal,661.35,9
+16,152,Electronics,Mobile,123.56,19,2023-10-20,1034,Florida,Cash,2347.64,10
+17,101,Toys,Mobile,398.32,15,2023-12-29,1000,California,Debit Card,5974.8,12
+18,187,Toys,Shirt,22.16,8,2023-11-05,1051,New York,Credit Card,177.28,11
+19,129,Books,Fruit,293.49,11,2022-05-08,1084,Florida,PayPal,3228.3900000000003,5
+20,137,Groceries,Fruit,497.74,9,2022-11-10,1092,New York,Debit Card,4479.66,11
+21,101,Electronics,Action Figure,428.57,15,2022-11-28,1069,Texas,Cash,6428.55,11
+22,163,Groceries,Board Game,263.12,1,2022-05-30,1036,Florida,PayPal,263.12,5
+23,159,Groceries,Laptop,36.5,1,2023-03-30,1064,Texas,PayPal,36.5,3
+24,120,Toys,Laptop,416.53,19,2022-02-05,1050,California,PayPal,7914.07,2
+25,132,Books,Vegetable,301.49,3,2023-11-16,1000,California,Debit Card,904.47,11
+26,175,Clothing,Action Figure,61.89,10,2023-02-24,1090,Illinois,Debit Card,618.9,2
+27,157,Books,Mobile,51.46,8,2022-01-22,1020,California,Debit Card,411.68,1
+28,121,Books,Action Figure,455.27,15,2022-07-25,1052,Texas,PayPal,6829.049999999999,7
+29,188,Groceries,Action Figure,336.25,10,2023-10-01,1015,California,PayPal,3362.5,10
+30,148,Books,Action Figure,415.5,1,2022-12-22,1060,Florida,Credit Card,415.5,12
+31,190,Electronics,Fruit,440.09,18,2023-03-16,1053,California,Credit Card,7921.62,3
+32,158,Groceries,Action Figure,288.03,2,2023-12-30,1039,Illinois,Debit Card,576.06,12
+33,141,Electronics,Pants,261.14,19,2022-04-06,1025,California,Debit Card,4961.66,4
+34,191,Clothing,Laptop,218.06,13,2022-06-13,1079,Texas,Cash,2834.78,6
+35,159,Groceries,Vegetable,161.89,1,2022-05-28,1091,Texas,Debit Card,161.89,5
+36,179,Clothing,Pants,220.13,2,2023-06-14,1064,California,Credit Card,440.26,6
+37,114,Groceries,Vegetable,388.07,16,2022-10-21,1099,Texas,Credit Card,6209.12,10
+38,161,Toys,Shirt,302.95,15,2022-07-14,1073,Texas,Credit Card,4544.25,7
+39,161,Books,Vegetable,446.8,13,2023-10-25,1063,Illinois,PayPal,5808.400000000001,10
+40,146,Toys,Laptop,224.47,16,2023-04-25,1042,Florida,PayPal,3591.52,4
+41,161,Clothing,Laptop,305.51,17,2022-05-03,1016,Illinois,Debit Card,5193.67,5
+42,150,Books,Action Figure,317.5,7,2023-02-04,1058,New York,Cash,2222.5,2
+43,154,Groceries,Fiction,297.89,17,2023-11-30,1022,Illinois,Cash,5064.13,11
+44,163,Books,Shirt,352.8,7,2023-03-28,1006,California,Cash,2469.6,3
+45,102,Electronics,Mobile,122.53,13,2023-10-23,1043,Florida,PayPal,1592.89,10
+46,150,Books,Non-fiction,258.62,5,2022-04-14,1052,California,Credit Card,1293.1,4
+47,106,Electronics,Vegetable,56.59,17,2023-04-07,1070,New York,Credit Card,962.0300000000001,4
+48,120,Books,Fiction,195.33,3,2023-12-19,1078,Florida,PayPal,585.99,12
+49,172,Electronics,Action Figure,246.4,7,2023-12-11,1033,Texas,Cash,1724.8,12
+50,138,Clothing,Fruit,327.85,17,2023-01-31,1045,Illinois,Cash,5573.450000000001,1
+51,117,Toys,Mobile,475.51,7,2022-12-03,1067,California,Debit Card,3328.5699999999997,12
+52,103,Groceries,Board Game,302.32,1,2023-08-22,1077,New York,Debit Card,302.32,8
+53,188,Books,Fiction,373.08,17,2022-05-22,1077,Texas,Cash,6342.36,5
+54,159,Toys,Fruit,255.6,17,2022-11-13,1015,Illinois,PayPal,4345.2,11
+55,113,Groceries,Shirt,318.88,11,2023-12-12,1070,Texas,Cash,3507.68,12
+56,108,Groceries,Action Figure,40.11,3,2023-07-12,1095,Illinois,Debit Card,120.33,7
+57,189,Electronics,Mobile,130.92,15,2023-06-11,1018,Florida,Cash,1963.7999999999997,6
+58,152,Clothing,Mobile,184.12,11,2023-07-10,1001,Texas,PayPal,2025.3200000000002,7
+59,101,Clothing,Mobile,238.88,16,2023-02-05,1009,Texas,Credit Card,3822.08,2
+60,183,Toys,Shirt,27.6,9,2023-11-12,1049,Texas,PayPal,248.4,11
+61,191,Clothing,Vegetable,74.31,1,2022-11-06,1080,Florida,PayPal,74.31,11
+62,159,Books,Board Game,142.02,16,2023-05-10,1011,New York,Debit Card,2272.32,5
+63,170,Clothing,Shirt,485.91,9,2023-07-10,1069,Illinois,PayPal,4373.1900000000005,7
+64,143,Toys,Non-fiction,169.02,19,2023-09-02,1021,Texas,PayPal,3211.38,9
+65,107,Clothing,Board Game,243.61,12,2022-04-19,1031,Florida,Debit Card,2923.32,4
+66,146,Books,Laptop,102.07,19,2023-01-07,1083,New York,Debit Card,1939.33,1
+67,134,Electronics,Action Figure,307.34,9,2023-09-08,1000,Illinois,Credit Card,2766.06,9
+68,177,Toys,Shirt,143.94,7,2022-07-25,1053,Florida,Cash,1007.5799999999999,7
+69,180,Electronics,Fruit,107.46,14,2022-02-12,1057,Illinois,PayPal,1504.4399999999998,2
+70,135,Electronics,Board Game,260.7,19,2022-09-02,1069,Texas,Debit Card,4953.3,9
+71,149,Electronics,Non-fiction,7.73,19,2022-10-14,1082,New York,Credit Card,146.87,10
+72,103,Groceries,Laptop,8.79,2,2022-12-21,1017,Florida,Cash,17.58,12
+73,101,Groceries,Vegetable,113.44,9,2023-04-21,1005,New York,Debit Card,1020.96,4
+74,105,Electronics,Fruit,23.18,13,2022-03-24,1044,Texas,Cash,301.34,3
+75,153,Toys,Board Game,58.47,15,2022-04-20,1096,New York,Cash,877.05,4
+76,103,Books,Action Figure,172.74,3,2022-07-09,1022,New York,PayPal,518.22,7
+77,153,Books,Fruit,402.28,11,2022-09-08,1022,California,PayPal,4425.08,9
+78,192,Clothing,Laptop,288.16,14,2023-12-25,1025,New York,Debit Card,4034.2400000000002,12
+79,162,Toys,Fruit,258.77,8,2022-10-18,1076,Illinois,Cash,2070.16,10
+80,117,Groceries,Pants,150.28,18,2023-10-07,1006,Florida,Debit Card,2705.04,10
+81,189,Electronics,Fiction,466.22,19,2022-07-20,1078,California,Debit Card,8858.18,7
+82,143,Clothing,Vegetable,201.52,16,2022-11-22,1043,Florida,Cash,3224.32,11
+83,133,Books,Laptop,48.11,2,2023-05-26,1026,Florida,Debit Card,96.22,5
+84,173,Groceries,Fruit,310.45,8,2023-02-13,1025,Texas,Cash,2483.6,2
+85,161,Groceries,Fiction,61.35,6,2023-08-30,1096,Texas,Cash,368.1,8
+86,199,Electronics,Fiction,175.89,12,2023-05-23,1078,California,Cash,2110.68,5
+87,113,Books,Fruit,256.17,15,2023-08-24,1035,Texas,Cash,3842.55,8
+88,194,Toys,Action Figure,437.74,8,2022-03-13,1054,Texas,Credit Card,3501.92,3
+89,147,Groceries,Pants,249.31,4,2022-09-04,1063,Texas,Cash,997.24,9
+90,114,Electronics,Shirt,352.62,15,2023-10-03,1090,Florida,PayPal,5289.3,10
+91,171,Toys,Pants,496.44,17,2023-12-25,1056,California,PayPal,8439.48,12
+92,177,Books,Fruit,70.09,13,2023-08-31,1068,Florida,PayPal,911.1700000000001,8
+93,186,Groceries,Vegetable,140.99,18,2023-08-10,1060,Illinois,Cash,2537.82,8
+94,161,Toys,Shirt,200.32,2,2023-07-20,1001,Florida,PayPal,400.64,7
+95,139,Toys,Laptop,213.8,13,2022-12-10,1054,Illinois,Credit Card,2779.4,12
+96,184,Toys,Pants,208.46,13,2022-02-23,1096,New York,Debit Card,2709.98,2
+97,179,Groceries,Fruit,454.27,15,2023-12-31,1079,New York,Cash,6814.049999999999,12
+98,181,Groceries,Pants,358.45,10,2023-06-12,1086,Illinois,PayPal,3584.5,6
+99,152,Clothing,Shirt,305.91,3,2023-09-03,1037,Illinois,Credit Card,917.73,9
+100,123,Books,Non-fiction,158.14,19,2023-06-16,1079,Florida,Debit Card,3004.66,6
+101,125,Electronics,Board Game,412.78,3,2023-07-12,1077,Illinois,Credit Card,1238.34,7
+102,188,Toys,Pants,477.75,14,2022-07-12,1028,California,PayPal,6688.5,7
+103,159,Clothing,Laptop,411.49,8,2022-02-27,1025,New York,Credit Card,3291.92,2
+104,140,Electronics,Laptop,5.77,4,2023-03-13,1034,New York,Debit Card,23.08,3
+105,128,Clothing,Mobile,320.02,11,2022-04-21,1078,Illinois,PayPal,3520.22,4
+106,114,Groceries,Pants,30.31,11,2022-05-09,1066,Texas,Debit Card,333.40999999999997,5
+107,144,Toys,Board Game,132.52,11,2023-12-07,1086,Texas,Credit Card,1457.72,12
+108,164,Electronics,Action Figure,34.46,2,2022-11-22,1028,Illinois,Cash,68.92,11
+109,188,Electronics,Fiction,303.88,17,2022-01-08,1033,California,Cash,5165.96,1
+110,170,Electronics,Board Game,344.86,9,2022-01-29,1096,Texas,Cash,3103.7400000000002,1
+111,108,Electronics,Fiction,61.67,2,2022-04-22,1040,Illinois,Cash,123.34,4
+112,187,Electronics,Fiction,195.0,15,2023-11-04,1040,California,Debit Card,2925.0,11
+113,100,Clothing,Non-fiction,230.84,16,2022-05-11,1022,California,Cash,3693.44,5
+114,107,Toys,Mobile,187.68,4,2022-07-07,1070,Florida,Debit Card,750.72,7
+115,187,Groceries,Board Game,64.91,8,2023-11-06,1002,California,PayPal,519.28,11
+116,162,Groceries,Board Game,212.38,9,2023-12-10,1057,Texas,Cash,1911.42,12
+117,110,Groceries,Non-fiction,376.83,5,2023-04-20,1031,Texas,Debit Card,1884.1499999999999,4
+118,180,Groceries,Pants,40.15,16,2022-12-30,1030,Illinois,Cash,642.4,12
+119,107,Clothing,Pants,44.69,13,2022-07-23,1081,Illinois,Cash,580.97,7
+120,134,Books,Pants,180.61,7,2022-07-31,1042,California,Cash,1264.27,7
+121,134,Toys,Vegetable,471.15,17,2023-09-13,1006,New York,Debit Card,8009.549999999999,9
+122,132,Electronics,Fiction,335.94,3,2022-10-03,1000,Florida,Credit Card,1007.8199999999999,10
+123,104,Books,Vegetable,340.94,5,2022-03-14,1060,New York,Cash,1704.7,3
+124,140,Groceries,Mobile,184.15,19,2023-11-10,1013,California,Cash,3498.85,11
+125,127,Books,Non-fiction,298.86,12,2022-08-31,1051,California,PayPal,3586.32,8
+126,106,Toys,Board Game,10.01,7,2022-04-12,1095,New York,Credit Card,70.07,4
+127,172,Electronics,Fiction,319.87,9,2023-11-16,1005,Florida,Debit Card,2878.83,11
+128,171,Electronics,Vegetable,457.08,6,2022-06-20,1009,New York,PayPal,2742.48,6
+129,111,Toys,Vegetable,308.22,17,2023-10-15,1070,Illinois,Cash,5239.740000000001,10
+130,133,Toys,Fruit,437.48,16,2022-07-07,1089,Texas,PayPal,6999.68,7
+131,132,Groceries,Vegetable,363.37,3,2023-03-17,1097,Illinois,PayPal,1090.1100000000001,3
+132,147,Electronics,Action Figure,64.68,4,2022-03-27,1029,Texas,Cash,258.72,3
+133,122,Books,Board Game,451.71,10,2023-04-21,1099,California,Credit Card,4517.099999999999,4
+134,161,Clothing,Action Figure,37.89,5,2022-02-21,1020,Florida,Credit Card,189.45,2
+135,187,Clothing,Board Game,269.31,10,2022-04-21,1059,New York,PayPal,2693.1,4
+136,136,Toys,Non-fiction,75.36,12,2022-02-12,1080,Florida,Cash,904.3199999999999,2
+137,198,Groceries,Board Game,10.79,10,2022-07-30,1096,New York,Debit Card,107.89999999999999,7
+138,143,Clothing,Action Figure,213.91,13,2022-07-19,1073,Illinois,PayPal,2780.83,7
+139,185,Electronics,Board Game,151.05,11,2023-09-19,1062,Illinois,Debit Card,1661.5500000000002,9
+140,190,Toys,Non-fiction,245.57,16,2022-01-26,1041,New York,PayPal,3929.12,1
+141,134,Books,Non-fiction,290.71,8,2022-10-26,1050,Florida,PayPal,2325.68,10
+142,164,Toys,Mobile,26.65,8,2022-03-18,1063,New York,Cash,213.2,3
+143,198,Books,Board Game,65.89,8,2022-05-17,1075,California,Cash,527.12,5
+144,146,Toys,Fruit,281.53,13,2022-01-20,1055,Illinois,Debit Card,3659.8899999999994,1
+145,177,Toys,Pants,174.87,2,2023-03-16,1079,California,Debit Card,349.74,3
+146,102,Toys,Laptop,365.94,12,2022-07-30,1040,Illinois,Credit Card,4391.28,7
+147,100,Books,Non-fiction,327.88,10,2023-07-05,1031,Illinois,Cash,3278.8,7
+148,104,Books,Shirt,423.57,12,2023-03-11,1014,Texas,PayPal,5082.84,3
+149,189,Toys,Pants,347.78,11,2022-07-26,1061,California,PayPal,3825.58,7
+150,113,Clothing,Fiction,217.82,15,2023-03-15,1026,California,Credit Card,3267.2999999999997,3
+151,126,Groceries,Board Game,338.12,16,2023-10-28,1027,Texas,Cash,5409.92,10
+152,108,Groceries,Action Figure,141.31,17,2022-02-11,1080,Florida,PayPal,2402.27,2
+153,178,Groceries,Laptop,156.63,2,2023-02-15,1063,California,Credit Card,313.26,2
+154,114,Books,Shirt,395.55,18,2023-06-07,1058,New York,Credit Card,7119.900000000001,6
+155,189,Books,Pants,225.98,12,2023-09-02,1057,Texas,PayPal,2711.7599999999998,9
+156,141,Clothing,Board Game,400.2,19,2023-03-03,1001,California,PayPal,7603.8,3
+157,176,Groceries,Mobile,412.1,18,2022-10-02,1035,Florida,Debit Card,7417.8,10
+158,150,Groceries,Fiction,429.49,17,2023-03-24,1070,California,Cash,7301.33,3
+159,162,Toys,Laptop,458.73,6,2023-01-04,1012,Illinois,Debit Card,2752.38,1
+160,195,Books,Fruit,218.34,15,2022-08-08,1014,New York,Credit Card,3275.1,8
+161,151,Groceries,Mobile,162.84,3,2023-07-31,1088,Texas,PayPal,488.52,7
+162,195,Clothing,Shirt,293.19,6,2022-08-20,1086,Illinois,Debit Card,1759.1399999999999,8
+163,103,Clothing,Laptop,188.73,3,2022-11-24,1059,Florida,Credit Card,566.1899999999999,11
+164,193,Groceries,Mobile,302.53,1,2023-03-19,1021,Illinois,Cash,302.53,3
+165,122,Books,Fiction,354.27,13,2022-02-21,1062,Illinois,PayPal,4605.51,2
+166,114,Clothing,Fruit,345.76,14,2023-01-11,1089,Florida,Debit Card,4840.639999999999,1
+167,142,Toys,Mobile,190.4,13,2022-09-20,1096,Illinois,Cash,2475.2000000000003,9
+168,128,Clothing,Vegetable,87.6,4,2022-09-24,1074,Texas,Debit Card,350.4,9
+169,135,Electronics,Fruit,218.11,7,2022-12-25,1073,California,Credit Card,1526.77,12
+170,112,Electronics,Shirt,75.58,10,2022-11-13,1024,Illinois,Cash,755.8,11
+171,131,Books,Fiction,445.6,7,2022-11-20,1047,Texas,Debit Card,3119.2000000000003,11
+172,170,Groceries,Board Game,176.21,15,2023-10-28,1042,California,Cash,2643.15,10
+173,158,Books,Action Figure,81.46,15,2023-10-14,1037,California,Credit Card,1221.8999999999999,10
+174,185,Books,Action Figure,17.6,4,2023-07-17,1040,Illinois,Cash,70.4,7
+175,127,Books,Action Figure,324.68,6,2023-09-21,1044,Texas,Debit Card,1948.08,9
+176,165,Books,Laptop,320.27,5,2023-02-25,1087,Illinois,Credit Card,1601.35,2
+177,141,Toys,Shirt,173.6,12,2022-02-15,1039,Florida,PayPal,2083.2,2
+178,144,Toys,Fiction,40.5,1,2023-08-23,1096,California,Debit Card,40.5,8
+179,161,Clothing,Fruit,207.77,8,2023-12-21,1016,Illinois,Debit Card,1662.16,12
+180,156,Electronics,Laptop,159.05,1,2022-09-26,1087,California,Credit Card,159.05,9
+181,105,Books,Shirt,340.17,5,2023-08-24,1056,Texas,Credit Card,1700.8500000000001,8
+182,127,Clothing,Board Game,304.86,6,2023-01-16,1001,New York,PayPal,1829.16,1
+183,127,Electronics,Vegetable,185.47,3,2022-04-28,1095,Illinois,Debit Card,556.41,4
+184,143,Groceries,Fiction,112.86,15,2023-07-20,1061,Illinois,Credit Card,1692.9,7
+185,183,Toys,Action Figure,494.08,5,2022-04-26,1087,California,PayPal,2470.4,4
+186,129,Electronics,Mobile,229.73,14,2023-09-22,1008,Texas,PayPal,3216.22,9
+187,161,Groceries,Fiction,345.7,18,2022-09-17,1067,Florida,Credit Card,6222.599999999999,9
+188,174,Electronics,Non-fiction,74.57,16,2022-03-16,1080,Texas,Debit Card,1193.12,3
+189,191,Toys,Shirt,245.37,6,2023-04-25,1016,Illinois,Cash,1472.22,4
+190,188,Toys,Pants,18.63,14,2022-11-01,1049,Florida,Cash,260.82,11
+191,161,Clothing,Board Game,255.2,8,2022-01-07,1093,Texas,PayPal,2041.6,1
+192,196,Books,Vegetable,482.19,7,2023-01-01,1039,New York,Cash,3375.33,1
+193,100,Electronics,Board Game,195.18,8,2023-09-26,1057,California,Cash,1561.44,9
+194,126,Electronics,Fiction,24.3,13,2023-06-07,1074,Texas,Credit Card,315.90000000000003,6
+195,161,Groceries,Pants,20.32,6,2022-12-14,1084,Texas,PayPal,121.92,12
+196,176,Toys,Non-fiction,197.05,18,2023-03-14,1020,New York,Debit Card,3546.9,3
+197,102,Electronics,Fruit,84.21,2,2022-08-03,1017,Illinois,PayPal,168.42,8
+198,169,Toys,Mobile,16.56,8,2023-03-05,1054,California,Credit Card,132.48,3
+199,171,Electronics,Pants,379.33,11,2023-05-13,1028,Texas,Cash,4172.63,5
+200,126,Clothing,Shirt,231.97,1,2023-06-24,1023,Florida,Debit Card,231.97,6
+201,108,Books,Action Figure,148.18,6,2023-01-02,1073,Texas,PayPal,889.08,1
+202,161,Electronics,Non-fiction,450.54,16,2022-11-09,1016,California,Cash,7208.64,11
+203,136,Toys,Mobile,62.49,12,2023-06-22,1017,Texas,PayPal,749.88,6
+204,196,Clothing,Vegetable,478.18,11,2022-02-23,1041,New York,Debit Card,5259.9800000000005,2
+205,150,Electronics,Action Figure,160.41,10,2023-06-25,1083,Texas,PayPal,1604.1,6
+206,143,Groceries,Fiction,444.76,3,2023-04-12,1044,Texas,PayPal,1334.28,4
+207,123,Books,Pants,303.46,13,2022-06-13,1081,Florida,PayPal,3944.9799999999996,6
+208,178,Electronics,Mobile,414.22,3,2022-11-30,1016,New York,Cash,1242.66,11
+209,158,Clothing,Laptop,492.09,15,2023-07-01,1072,New York,Debit Card,7381.349999999999,7
+210,131,Groceries,Fruit,147.76,16,2022-12-14,1013,Texas,Debit Card,2364.16,12
+211,195,Clothing,Fruit,480.76,13,2022-09-30,1048,Florida,Cash,6249.88,9
+212,187,Clothing,Non-fiction,197.79,17,2023-12-21,1028,Texas,Cash,3362.43,12
+213,151,Groceries,Vegetable,195.83,3,2023-02-18,1094,Texas,Cash,587.49,2
+214,161,Clothing,Non-fiction,173.49,11,2023-05-15,1003,California,Credit Card,1908.39,5
+215,157,Groceries,Laptop,273.0,19,2022-04-03,1081,California,PayPal,5187.0,4
+216,151,Electronics,Shirt,81.3,11,2023-11-16,1019,Florida,PayPal,894.3,11
+217,111,Groceries,Vegetable,279.09,16,2022-03-20,1046,Illinois,Debit Card,4465.44,3
+218,138,Groceries,Board Game,273.14,3,2023-09-14,1008,California,PayPal,819.42,9
+219,101,Books,Shirt,382.14,6,2022-08-05,1076,Illinois,Credit Card,2292.84,8
+220,102,Groceries,Vegetable,417.66,14,2022-12-24,1078,New York,Cash,5847.240000000001,12
+221,155,Groceries,Vegetable,223.02,18,2023-09-10,1026,California,Debit Card,4014.36,9
+222,180,Electronics,Laptop,154.65,17,2023-05-22,1014,California,Debit Card,2629.05,5
+223,158,Books,Fiction,133.37,4,2023-07-13,1091,Florida,PayPal,533.48,7
+224,101,Toys,Laptop,101.34,15,2022-06-30,1018,Illinois,Debit Card,1520.1000000000001,6
+225,101,Electronics,Vegetable,33.54,11,2023-07-30,1089,California,Cash,368.94,7
+226,191,Electronics,Mobile,174.51,3,2022-09-03,1051,California,Debit Card,523.53,9
+227,153,Toys,Shirt,138.77,3,2022-09-01,1025,Florida,Cash,416.31000000000006,9
+228,186,Groceries,Laptop,483.38,16,2023-05-21,1088,Florida,Credit Card,7734.08,5
+229,195,Clothing,Fiction,281.07,5,2023-02-26,1025,Illinois,Credit Card,1405.35,2
+230,196,Books,Pants,176.9,10,2022-11-16,1025,New York,Cash,1769.0,11
+231,100,Clothing,Non-fiction,292.33,19,2022-03-28,1045,New York,PayPal,5554.2699999999995,3
+232,118,Toys,Vegetable,73.9,4,2022-08-05,1091,Texas,Debit Card,295.6,8
+233,101,Electronics,Board Game,224.8,19,2023-05-05,1048,California,PayPal,4271.2,5
+234,152,Electronics,Pants,314.99,11,2023-06-03,1081,Illinois,Debit Card,3464.8900000000003,6
+235,143,Books,Fruit,247.0,2,2022-10-05,1095,California,Credit Card,494.0,10
+236,189,Electronics,Action Figure,203.88,10,2023-12-23,1052,Illinois,Credit Card,2038.8,12
+237,131,Electronics,Fiction,496.95,11,2022-06-18,1002,Illinois,Credit Card,5466.45,6
+238,169,Books,Board Game,440.76,16,2022-11-26,1065,Illinois,Debit Card,7052.16,11
+239,131,Books,Action Figure,313.59,19,2023-10-12,1096,California,Credit Card,5958.209999999999,10
+240,167,Toys,Fiction,286.84,11,2023-03-17,1041,Florida,Credit Card,3155.24,3
+241,154,Electronics,Mobile,312.23,14,2023-01-26,1018,California,Credit Card,4371.22,1
+242,174,Electronics,Non-fiction,104.65,2,2023-05-11,1016,Illinois,Credit Card,209.3,5
+243,155,Toys,Pants,200.59,5,2023-01-16,1032,Texas,PayPal,1002.95,1
+244,116,Groceries,Shirt,24.53,5,2022-11-02,1075,New York,Credit Card,122.65,11
+245,137,Groceries,Fiction,240.4,19,2023-11-04,1048,Illinois,Credit Card,4567.6,11
+246,123,Groceries,Shirt,273.8,12,2023-05-28,1055,Texas,PayPal,3285.6000000000004,5
+247,168,Toys,Non-fiction,117.74,18,2022-07-07,1062,Florida,PayPal,2119.3199999999997,7
+248,197,Electronics,Vegetable,482.19,4,2023-05-31,1002,Illinois,Debit Card,1928.76,5
+249,169,Toys,Fruit,455.18,17,2023-10-06,1048,Texas,Cash,7738.06,10
+250,185,Toys,Pants,362.46,10,2023-03-03,1054,Illinois,Credit Card,3624.6,3
+251,110,Groceries,Non-fiction,269.03,6,2023-05-17,1025,California,Credit Card,1614.1799999999998,5
+252,115,Clothing,Non-fiction,435.63,14,2023-12-31,1098,Texas,Credit Card,6098.82,12
+253,196,Electronics,Mobile,69.67,11,2022-09-17,1071,California,Debit Card,766.37,9
+254,172,Groceries,Action Figure,396.3,11,2023-05-28,1051,California,Credit Card,4359.3,5
+255,158,Clothing,Fruit,66.79,18,2022-03-12,1099,Texas,Cash,1202.22,3
+256,169,Clothing,Pants,398.13,18,2023-04-23,1006,New York,PayPal,7166.34,4
+257,179,Books,Vegetable,141.5,11,2022-06-27,1045,Texas,Debit Card,1556.5,6
+258,192,Electronics,Vegetable,439.16,12,2023-04-02,1045,New York,PayPal,5269.92,4
+259,102,Clothing,Laptop,472.3,5,2022-07-08,1099,Illinois,Credit Card,2361.5,7
+260,119,Groceries,Non-fiction,78.65,9,2022-10-18,1015,Illinois,Credit Card,707.85,10
+261,158,Books,Fiction,234.02,9,2023-06-04,1023,Texas,Credit Card,2106.1800000000003,6
+262,135,Electronics,Mobile,490.59,10,2022-10-19,1060,Illinois,Cash,4905.9,10
+263,118,Toys,Fruit,244.29,19,2023-09-27,1053,Florida,Cash,4641.51,9
+264,189,Groceries,Vegetable,432.46,1,2022-10-10,1061,California,Debit Card,432.46,10
+265,166,Clothing,Pants,296.42,7,2023-06-28,1000,California,PayPal,2074.94,6
+266,118,Clothing,Laptop,190.79,4,2023-01-12,1048,New York,Credit Card,763.16,1
+267,119,Groceries,Pants,146.46,1,2023-10-20,1024,Illinois,Credit Card,146.46,10
+268,195,Clothing,Mobile,105.6,15,2022-06-05,1009,New York,Credit Card,1584.0,6
+269,170,Books,Fiction,382.09,8,2023-05-23,1079,California,Credit Card,3056.72,5
+270,151,Electronics,Laptop,196.34,12,2023-02-17,1015,California,Cash,2356.08,2
+271,132,Books,Laptop,258.08,18,2023-06-12,1057,Illinois,PayPal,4645.44,6
+272,139,Clothing,Action Figure,248.7,15,2022-12-21,1071,Florida,PayPal,3730.5,12
+273,138,Toys,Fruit,290.75,17,2023-07-13,1028,Florida,Debit Card,4942.75,7
+274,181,Electronics,Laptop,433.46,14,2022-07-06,1091,Illinois,Cash,6068.44,7
+275,100,Electronics,Action Figure,490.47,14,2022-01-31,1005,Illinois,Credit Card,6866.58,1
+276,110,Groceries,Action Figure,206.75,18,2022-09-17,1015,New York,PayPal,3721.5,9
+277,191,Groceries,Mobile,414.62,18,2023-02-25,1019,Illinois,PayPal,7463.16,2
+278,156,Toys,Shirt,383.44,16,2023-06-13,1079,Florida,Cash,6135.04,6
+279,188,Electronics,Pants,288.9,1,2023-07-05,1070,Illinois,Debit Card,288.9,7
+280,149,Toys,Fiction,478.24,11,2022-10-31,1077,New York,Debit Card,5260.64,10
+281,122,Groceries,Board Game,104.23,15,2022-02-08,1042,New York,Credit Card,1563.45,2
+282,130,Groceries,Pants,59.09,12,2023-05-04,1025,New York,Debit Card,709.08,5
+283,193,Electronics,Laptop,427.71,8,2023-10-06,1089,New York,PayPal,3421.68,10
+284,141,Books,Fiction,222.38,6,2023-06-26,1077,Texas,Debit Card,1334.28,6
+285,198,Clothing,Vegetable,424.25,3,2023-11-01,1070,Illinois,Credit Card,1272.75,11
+286,106,Groceries,Shirt,447.08,13,2022-10-05,1032,California,PayPal,5812.04,10
+287,115,Groceries,Vegetable,35.92,13,2022-07-22,1025,Illinois,Debit Card,466.96000000000004,7
+288,189,Books,Vegetable,442.32,2,2022-03-07,1044,Texas,Debit Card,884.64,3
+289,159,Books,Fruit,226.92,5,2022-04-18,1083,New York,Cash,1134.6,4
+290,101,Toys,Pants,257.66,17,2022-09-25,1062,Texas,Credit Card,4380.22,9
+291,100,Toys,Board Game,315.16,6,2022-08-10,1066,Florida,Debit Card,1890.96,8
+292,147,Clothing,Mobile,463.56,2,2023-06-14,1051,Florida,Cash,927.12,6
+293,111,Clothing,Board Game,14.46,4,2022-03-31,1067,Illinois,PayPal,57.84,3
+294,168,Electronics,Vegetable,241.04,11,2023-11-24,1025,Illinois,Cash,2651.44,11
+295,136,Toys,Laptop,345.42,8,2022-09-12,1074,California,Cash,2763.36,9
+296,131,Groceries,Shirt,362.74,12,2023-03-31,1001,California,Debit Card,4352.88,3
+297,108,Toys,Non-fiction,347.8,8,2022-09-10,1013,Florida,Debit Card,2782.4,9
+298,198,Groceries,Board Game,71.55,11,2022-09-14,1029,New York,Debit Card,787.05,9
+299,118,Books,Vegetable,153.2,8,2023-01-18,1048,Texas,Cash,1225.6,1
+300,147,Toys,Shirt,182.56,8,2023-03-18,1011,California,PayPal,1460.48,3
+301,179,Books,Fiction,403.2,17,2023-08-22,1089,California,Credit Card,6854.4,8
+302,102,Clothing,Pants,142.99,16,2022-03-31,1043,New York,Cash,2287.84,3
+303,119,Clothing,Action Figure,109.3,14,2023-01-25,1032,New York,Debit Card,1530.2,1
+304,123,Electronics,Fruit,478.94,11,2023-08-05,1012,Illinois,Credit Card,5268.34,8
+305,153,Toys,Shirt,9.39,7,2022-02-13,1077,Texas,PayPal,65.73,2
+306,132,Books,Laptop,498.92,16,2023-12-13,1087,New York,Credit Card,7982.72,12
+307,123,Groceries,Laptop,340.03,13,2023-10-26,1097,California,Debit Card,4420.389999999999,10
+308,174,Clothing,Shirt,415.09,15,2023-08-21,1025,California,Cash,6226.349999999999,8
+309,171,Clothing,Laptop,150.84,16,2022-01-19,1020,Florida,Cash,2413.44,1
+310,135,Groceries,Pants,12.09,9,2022-04-11,1027,New York,Debit Card,108.81,4
+311,137,Books,Laptop,370.25,3,2023-08-30,1047,Illinois,Cash,1110.75,8
+312,183,Books,Board Game,417.9,19,2022-12-23,1099,Texas,Debit Card,7940.099999999999,12
+313,198,Toys,Action Figure,371.54,5,2023-06-26,1039,Illinois,Cash,1857.7,6
+314,188,Toys,Laptop,75.71,10,2022-02-02,1065,California,Cash,757.0999999999999,2
+315,198,Electronics,Action Figure,377.95,17,2022-08-17,1072,Illinois,Cash,6425.15,8
+316,124,Clothing,Vegetable,385.62,15,2023-06-08,1086,California,PayPal,5784.3,6
+317,192,Toys,Mobile,330.98,8,2023-09-22,1078,California,PayPal,2647.84,9
+318,117,Books,Pants,384.23,15,2022-06-04,1076,California,Debit Card,5763.450000000001,6
+319,181,Groceries,Mobile,423.73,14,2023-02-27,1022,California,PayPal,5932.22,2
+320,165,Books,Vegetable,308.73,7,2022-09-03,1080,California,Debit Card,2161.11,9
+321,153,Clothing,Pants,48.86,12,2023-02-09,1047,Florida,Credit Card,586.3199999999999,2
+322,134,Books,Shirt,246.38,17,2023-06-25,1001,Illinois,Credit Card,4188.46,6
+323,179,Electronics,Shirt,43.44,17,2022-06-10,1083,Florida,PayPal,738.48,6
+324,160,Clothing,Action Figure,206.73,10,2023-12-03,1019,Florida,Credit Card,2067.2999999999997,12
+325,140,Groceries,Vegetable,206.52,19,2022-04-27,1058,New York,Credit Card,3923.88,4
+326,199,Electronics,Action Figure,37.67,14,2022-09-28,1045,New York,Cash,527.38,9
+327,132,Clothing,Fruit,177.67,11,2023-11-23,1002,New York,Cash,1954.37,11
+328,167,Groceries,Laptop,59.94,2,2023-05-02,1054,Texas,Debit Card,119.88,5
+329,132,Electronics,Non-fiction,405.08,18,2022-06-21,1011,New York,Credit Card,7291.44,6
+330,113,Electronics,Fruit,474.11,7,2022-10-01,1039,Illinois,Debit Card,3318.77,10
+331,120,Clothing,Laptop,40.8,12,2022-09-16,1065,Florida,Debit Card,489.59999999999997,9
+332,147,Toys,Pants,477.78,2,2022-05-15,1099,Illinois,Credit Card,955.56,5
+333,119,Electronics,Action Figure,263.68,18,2023-11-14,1077,New York,PayPal,4746.24,11
+334,107,Electronics,Pants,153.29,6,2023-12-23,1015,Texas,Credit Card,919.74,12
+335,106,Groceries,Pants,43.05,10,2023-02-26,1082,Texas,Cash,430.5,2
+336,166,Books,Laptop,252.81,15,2023-02-25,1033,Florida,Credit Card,3792.15,2
+337,116,Clothing,Vegetable,398.29,5,2022-07-05,1043,Illinois,PayPal,1991.45,7
+338,132,Clothing,Laptop,355.01,3,2022-12-30,1005,California,Debit Card,1065.03,12
+339,147,Toys,Fiction,29.86,5,2023-08-30,1076,Illinois,Debit Card,149.3,8
+340,175,Toys,Shirt,41.09,8,2023-01-13,1063,New York,Cash,328.72,1
+341,158,Clothing,Shirt,204.42,8,2023-06-07,1099,California,Cash,1635.36,6
+342,185,Toys,Fruit,151.17,8,2023-08-03,1021,Texas,Cash,1209.36,8
+343,121,Groceries,Shirt,120.03,12,2023-12-23,1017,Florida,Debit Card,1440.3600000000001,12
+344,129,Clothing,Laptop,144.1,8,2022-07-15,1011,Florida,Cash,1152.8,7
+345,137,Toys,Board Game,402.72,11,2022-04-08,1051,Texas,Credit Card,4429.92,4
+346,150,Clothing,Action Figure,464.97,14,2023-08-28,1093,New York,Debit Card,6509.58,8
+347,153,Books,Laptop,205.53,8,2022-01-22,1050,Texas,PayPal,1644.24,1
+348,107,Electronics,Laptop,453.52,10,2023-03-26,1070,New York,Debit Card,4535.2,3
+349,126,Clothing,Non-fiction,164.14,7,2022-06-21,1095,California,Credit Card,1148.98,6
+350,126,Electronics,Action Figure,240.84,17,2023-01-18,1047,Texas,Credit Card,4094.28,1
+351,197,Toys,Fiction,116.88,4,2022-05-14,1018,New York,Cash,467.52,5
+352,120,Electronics,Shirt,322.04,13,2023-03-02,1005,California,Debit Card,4186.52,3
+353,129,Clothing,Action Figure,489.6,4,2022-01-25,1083,Texas,Debit Card,1958.4,1
+354,196,Books,Shirt,303.73,5,2023-05-18,1026,Florida,Debit Card,1518.65,5
+355,127,Toys,Fruit,182.12,4,2022-07-04,1052,Texas,PayPal,728.48,7
+356,163,Clothing,Action Figure,325.67,18,2022-03-26,1047,Illinois,Cash,5862.06,3
+357,196,Toys,Shirt,65.85,6,2023-07-21,1006,Texas,Credit Card,395.09999999999997,7
+358,168,Groceries,Fiction,444.89,2,2022-05-24,1058,Illinois,Credit Card,889.78,5
+359,160,Electronics,Mobile,254.03,11,2023-11-10,1068,California,Cash,2794.33,11
+360,147,Groceries,Pants,227.43,14,2023-02-16,1010,Texas,Credit Card,3184.02,2
+361,118,Clothing,Pants,295.0,5,2022-08-12,1014,California,Credit Card,1475.0,8
+362,103,Books,Fiction,314.27,6,2022-08-08,1063,California,Cash,1885.62,8
+363,134,Toys,Non-fiction,40.53,10,2022-06-28,1002,New York,Credit Card,405.3,6
+364,163,Electronics,Mobile,342.9,8,2023-09-23,1068,California,Debit Card,2743.2,9
+365,148,Toys,Fruit,124.76,14,2023-03-09,1022,California,PayPal,1746.64,3
+366,116,Clothing,Fiction,358.41,3,2022-09-22,1052,Texas,Cash,1075.23,9
+367,143,Toys,Pants,412.15,12,2023-03-05,1036,Texas,PayPal,4945.799999999999,3
+368,191,Electronics,Pants,402.96,16,2023-10-24,1008,Florida,Credit Card,6447.36,10
+369,129,Clothing,Pants,278.49,17,2023-02-20,1014,New York,Credit Card,4734.33,2
+370,192,Toys,Vegetable,262.48,1,2023-03-29,1002,California,Debit Card,262.48,3
+371,145,Books,Fiction,75.72,10,2023-12-28,1092,New York,Cash,757.2,12
+372,105,Clothing,Laptop,388.8,10,2022-07-16,1069,Illinois,Credit Card,3888.0,7
+373,198,Clothing,Fruit,139.35,2,2023-07-08,1016,California,Cash,278.7,7
+374,136,Books,Pants,250.86,9,2022-02-22,1025,New York,Cash,2257.7400000000002,2
+375,123,Groceries,Shirt,145.72,13,2023-04-25,1020,Florida,Cash,1894.36,4
+376,192,Electronics,Fiction,71.25,16,2023-03-19,1071,Florida,Cash,1140.0,3
+377,145,Groceries,Vegetable,316.63,18,2022-11-26,1020,California,Cash,5699.34,11
+378,152,Toys,Fiction,31.89,19,2022-09-08,1010,Illinois,PayPal,605.91,9
+379,194,Books,Fruit,375.58,12,2022-05-03,1037,Florida,Debit Card,4506.96,5
+380,198,Groceries,Vegetable,162.21,8,2023-01-22,1071,Florida,Cash,1297.68,1
+381,159,Clothing,Fruit,5.07,17,2022-12-05,1087,Illinois,PayPal,86.19,12
+382,196,Toys,Fiction,258.01,15,2022-12-14,1034,New York,Credit Card,3870.1499999999996,12
+383,162,Toys,Laptop,28.19,10,2022-01-29,1013,Florida,Cash,281.90000000000003,1
+384,184,Groceries,Fruit,141.7,15,2022-02-04,1013,Texas,Credit Card,2125.5,2
+385,131,Groceries,Vegetable,354.95,15,2023-06-02,1009,Florida,Cash,5324.25,6
+386,186,Books,Vegetable,36.03,7,2023-01-31,1011,New York,PayPal,252.21,1
+387,132,Electronics,Fruit,420.47,13,2023-09-15,1037,New York,PayPal,5466.110000000001,9
+388,166,Groceries,Board Game,6.89,17,2022-10-21,1033,California,PayPal,117.13,10
+389,117,Groceries,Fiction,127.18,9,2023-08-12,1040,Texas,Debit Card,1144.6200000000001,8
+390,124,Clothing,Board Game,371.75,8,2022-12-15,1009,New York,Credit Card,2974.0,12
+391,194,Toys,Non-fiction,161.55,18,2022-05-27,1016,Illinois,Debit Card,2907.9,5
+392,153,Electronics,Fiction,55.44,13,2022-03-08,1016,Texas,Cash,720.72,3
+393,157,Clothing,Fruit,183.32,16,2023-06-04,1066,Texas,Credit Card,2933.12,6
+394,166,Books,Mobile,138.84,9,2022-05-02,1061,Illinois,PayPal,1249.56,5
+395,145,Books,Fruit,422.14,12,2022-12-06,1094,Florida,Credit Card,5065.68,12
+396,123,Groceries,Board Game,160.11,12,2022-06-24,1000,Illinois,PayPal,1921.3200000000002,6
+397,131,Groceries,Laptop,395.52,6,2023-11-22,1011,Illinois,Debit Card,2373.12,11
+398,146,Books,Fruit,446.48,19,2023-08-20,1003,Florida,Debit Card,8483.12,8
+399,185,Groceries,Fruit,219.74,7,2023-03-27,1041,Florida,PayPal,1538.18,3
+400,122,Electronics,Laptop,455.42,3,2023-07-11,1012,Florida,PayPal,1366.26,7
+401,165,Groceries,Fruit,191.77,16,2022-05-16,1097,Florida,Cash,3068.32,5
+402,126,Toys,Pants,482.22,18,2022-01-16,1084,Florida,Debit Card,8679.960000000001,1
+403,101,Groceries,Mobile,49.2,16,2022-11-29,1085,Illinois,Debit Card,787.2,11
+404,189,Clothing,Shirt,345.07,7,2022-07-14,1003,California,Cash,2415.49,7
+405,116,Electronics,Mobile,249.44,4,2023-05-11,1081,California,Debit Card,997.76,5
+406,132,Clothing,Fruit,196.89,8,2022-01-09,1068,New York,PayPal,1575.12,1
+407,108,Clothing,Pants,318.19,13,2022-11-30,1018,California,Credit Card,4136.47,11
+408,142,Toys,Fiction,353.41,13,2022-11-29,1001,California,Credit Card,4594.33,11
+409,147,Electronics,Fruit,7.16,17,2022-11-23,1011,Illinois,Debit Card,121.72,11
+410,138,Electronics,Board Game,87.64,17,2022-01-15,1080,Florida,Cash,1489.88,1
+411,192,Electronics,Pants,357.96,5,2023-09-06,1073,Florida,PayPal,1789.8,9
+412,141,Electronics,Laptop,334.86,6,2022-08-14,1097,Illinois,Credit Card,2009.16,8
+413,125,Electronics,Pants,483.19,19,2023-03-01,1005,California,PayPal,9180.61,3
+414,198,Toys,Laptop,381.71,13,2023-02-12,1007,Illinois,Debit Card,4962.23,2
+415,149,Groceries,Non-fiction,475.63,14,2022-04-23,1050,New York,Debit Card,6658.82,4
+416,124,Clothing,Shirt,352.76,4,2023-03-04,1010,Florida,Credit Card,1411.04,3
+417,123,Electronics,Action Figure,152.54,7,2022-01-01,1062,Texas,Debit Card,1067.78,1
+418,112,Groceries,Pants,57.16,8,2022-09-23,1056,New York,Cash,457.28,9
+419,159,Groceries,Vegetable,392.0,13,2023-05-06,1011,New York,Debit Card,5096.0,5
+420,106,Clothing,Board Game,323.85,6,2022-07-27,1072,Illinois,Debit Card,1943.1000000000001,7
+421,156,Toys,Fruit,28.85,6,2023-09-14,1001,California,Debit Card,173.10000000000002,9
+422,135,Books,Board Game,183.22,3,2023-12-13,1007,Florida,PayPal,549.66,12
+423,144,Books,Mobile,478.62,3,2023-01-04,1010,Texas,PayPal,1435.8600000000001,1
+424,119,Groceries,Action Figure,252.7,13,2022-11-02,1052,New York,Credit Card,3285.1,11
+425,164,Clothing,Mobile,219.2,2,2022-01-12,1099,Texas,Credit Card,438.4,1
+426,107,Books,Non-fiction,231.56,16,2022-12-11,1009,California,Credit Card,3704.96,12
+427,115,Groceries,Action Figure,108.4,6,2023-04-10,1084,California,Debit Card,650.4000000000001,4
+428,113,Toys,Action Figure,187.51,8,2023-12-01,1083,Texas,PayPal,1500.08,12
+429,175,Books,Mobile,188.06,8,2023-10-28,1007,Florida,Cash,1504.48,10
+430,186,Groceries,Laptop,30.92,6,2023-05-09,1035,California,Debit Card,185.52,5
+431,114,Groceries,Mobile,384.95,14,2023-01-03,1092,Texas,Debit Card,5389.3,1
+432,191,Electronics,Board Game,211.17,3,2023-02-24,1075,New York,Debit Card,633.51,2
+433,197,Toys,Laptop,411.98,10,2022-06-20,1013,Texas,Cash,4119.8,6
+434,165,Electronics,Board Game,425.92,3,2022-05-14,1053,Texas,Credit Card,1277.76,5
+435,131,Clothing,Non-fiction,109.94,12,2023-03-03,1084,Illinois,Cash,1319.28,3
+436,186,Electronics,Fruit,330.39,17,2022-01-25,1085,California,Credit Card,5616.63,1
+437,162,Electronics,Fiction,238.78,5,2023-06-14,1020,Florida,Cash,1193.9,6
+438,185,Books,Laptop,440.68,9,2022-07-09,1049,Florida,PayPal,3966.12,7
+439,150,Groceries,Non-fiction,111.79,7,2022-05-21,1093,Illinois,Debit Card,782.5300000000001,5
+440,124,Toys,Vegetable,340.52,4,2023-07-09,1038,Florida,Debit Card,1362.08,7
+441,157,Electronics,Non-fiction,305.84,13,2023-10-20,1019,Texas,Debit Card,3975.9199999999996,10
+442,162,Toys,Mobile,151.17,13,2022-11-11,1087,Illinois,Credit Card,1965.2099999999998,11
+443,161,Electronics,Mobile,72.62,10,2023-03-20,1086,New York,Cash,726.2,3
+444,121,Clothing,Fiction,327.56,18,2022-11-15,1006,California,PayPal,5896.08,11
+445,157,Electronics,Non-fiction,370.61,17,2023-03-17,1008,California,Cash,6300.37,3
+446,157,Books,Shirt,161.24,13,2022-04-02,1000,California,Debit Card,2096.12,4
+447,185,Groceries,Fruit,324.19,17,2022-06-28,1025,Texas,PayPal,5511.23,6
+448,148,Clothing,Mobile,200.59,4,2022-02-25,1037,New York,PayPal,802.36,2
+449,151,Electronics,Fiction,358.04,1,2022-06-04,1037,Illinois,Debit Card,358.04,6
+450,141,Toys,Fruit,103.61,1,2023-11-03,1060,Illinois,Cash,103.61,11
+451,169,Clothing,Non-fiction,445.66,15,2022-04-21,1043,California,Debit Card,6684.900000000001,4
+452,114,Clothing,Non-fiction,147.27,13,2022-05-17,1085,New York,Cash,1914.5100000000002,5
+453,153,Electronics,Action Figure,187.05,17,2022-08-20,1043,New York,PayPal,3179.8500000000004,8
+454,159,Clothing,Fiction,33.76,8,2023-04-13,1073,New York,PayPal,270.08,4
+455,196,Toys,Mobile,60.2,18,2023-04-26,1061,Florida,Debit Card,1083.6000000000001,4
+456,107,Clothing,Shirt,260.35,13,2022-03-09,1005,Florida,PayPal,3384.55,3
+457,152,Toys,Non-fiction,137.46,14,2022-09-06,1016,California,Credit Card,1924.44,9
+458,159,Electronics,Shirt,418.56,8,2022-11-19,1050,New York,PayPal,3348.48,11
+459,104,Groceries,Non-fiction,12.27,8,2023-06-02,1037,New York,Credit Card,98.16,6
+460,167,Clothing,Mobile,192.65,15,2023-03-08,1023,Illinois,PayPal,2889.75,3
+461,105,Groceries,Fruit,171.99,13,2023-05-02,1050,Illinois,Debit Card,2235.87,5
+462,195,Toys,Pants,14.57,7,2023-08-29,1009,California,Debit Card,101.99000000000001,8
+463,193,Clothing,Fruit,66.56,5,2023-03-05,1071,New York,Credit Card,332.8,3
+464,146,Books,Non-fiction,209.75,17,2022-09-26,1020,California,Debit Card,3565.75,9
+465,198,Groceries,Board Game,248.97,16,2023-12-10,1069,Illinois,PayPal,3983.52,12
+466,154,Clothing,Pants,205.12,2,2023-06-21,1084,Illinois,PayPal,410.24,6
+467,139,Groceries,Pants,267.81,18,2022-05-28,1056,Florida,Debit Card,4820.58,5
+468,151,Clothing,Shirt,299.59,17,2022-04-28,1038,California,PayPal,5093.03,4
+469,115,Electronics,Fiction,9.91,7,2023-01-02,1087,California,Cash,69.37,1
+470,112,Groceries,Shirt,234.73,13,2022-03-07,1032,New York,Cash,3051.49,3
+471,129,Books,Shirt,481.93,18,2023-01-05,1058,New York,PayPal,8674.74,1
+472,118,Books,Board Game,261.92,14,2022-06-24,1017,Florida,Debit Card,3666.88,6
+473,116,Toys,Fruit,340.38,18,2023-08-11,1055,Texas,Credit Card,6126.84,8
+474,162,Clothing,Fruit,159.37,13,2023-05-10,1091,Texas,Debit Card,2071.81,5
+475,118,Groceries,Vegetable,388.13,11,2022-04-24,1056,Texas,Credit Card,4269.43,4
+476,191,Toys,Non-fiction,387.6,16,2022-04-21,1095,California,Debit Card,6201.6,4
+477,157,Groceries,Board Game,263.04,17,2023-03-15,1075,California,PayPal,4471.68,3
+478,154,Clothing,Vegetable,488.13,8,2023-12-16,1047,Illinois,Cash,3905.04,12
+479,189,Books,Mobile,67.15,19,2022-05-27,1041,California,Debit Card,1275.8500000000001,5
+480,189,Electronics,Non-fiction,13.39,15,2022-02-04,1026,California,Credit Card,200.85000000000002,2
+481,161,Books,Non-fiction,386.23,9,2022-11-05,1073,California,Cash,3476.07,11
+482,122,Toys,Action Figure,404.54,10,2023-06-22,1051,Florida,Credit Card,4045.4,6
+483,108,Electronics,Action Figure,64.5,12,2022-01-14,1041,California,PayPal,774.0,1
+484,111,Toys,Laptop,136.46,1,2023-01-09,1031,New York,Cash,136.46,1
+485,100,Clothing,Laptop,13.69,9,2023-07-11,1025,New York,Credit Card,123.21,7
+486,157,Electronics,Shirt,150.19,15,2023-03-04,1024,Illinois,Debit Card,2252.85,3
+487,100,Toys,Mobile,387.71,1,2023-12-29,1074,Florida,PayPal,387.71,12
+488,133,Clothing,Pants,261.39,12,2022-08-21,1022,New York,PayPal,3136.68,8
+489,195,Books,Pants,177.31,3,2023-12-06,1097,Florida,PayPal,531.9300000000001,12
+490,147,Clothing,Action Figure,189.01,11,2023-07-17,1056,Florida,Debit Card,2079.1099999999997,7
+491,188,Groceries,Action Figure,5.67,2,2023-12-27,1051,Illinois,Debit Card,11.34,12
+492,100,Clothing,Action Figure,153.4,16,2023-10-25,1086,Florida,Cash,2454.4,10
+493,115,Clothing,Board Game,325.0,9,2023-03-16,1092,California,Debit Card,2925.0,3
+494,160,Groceries,Fiction,487.23,15,2023-05-17,1030,Florida,Cash,7308.450000000001,5
+495,163,Toys,Laptop,424.3,12,2022-10-02,1063,Illinois,PayPal,5091.6,10
+496,162,Toys,Board Game,16.68,1,2022-03-17,1070,Illinois,Cash,16.68,3
+497,168,Clothing,Fruit,449.79,13,2023-03-15,1032,Illinois,Credit Card,5847.27,3
+498,121,Groceries,Pants,392.68,14,2023-11-30,1084,New York,PayPal,5497.52,11
+499,192,Groceries,Non-fiction,391.29,8,2022-10-16,1001,California,PayPal,3130.32,10
+500,166,Books,Laptop,231.71,8,2023-06-24,1017,New York,Cash,1853.68,6
+501,175,Toys,Vegetable,202.01,12,2023-11-23,1046,Texas,PayPal,2424.12,11
+502,125,Electronics,Fruit,154.94,1,2022-09-10,1032,California,Debit Card,154.94,9
+503,115,Toys,Laptop,37.52,11,2022-05-06,1097,Florida,Credit Card,412.72,5
+504,150,Toys,Board Game,117.98,8,2022-06-26,1083,Illinois,Cash,943.84,6
+505,185,Books,Mobile,127.07,10,2022-02-06,1034,Texas,Cash,1270.6999999999998,2
+506,156,Electronics,Non-fiction,244.62,19,2023-02-14,1050,California,PayPal,4647.78,2
+507,128,Books,Laptop,374.98,11,2023-09-03,1017,New York,Debit Card,4124.780000000001,9
+508,177,Electronics,Fiction,239.54,7,2023-09-02,1087,Illinois,PayPal,1676.78,9
+509,191,Clothing,Action Figure,33.63,11,2022-05-07,1071,New York,PayPal,369.93,5
+510,168,Electronics,Action Figure,479.11,17,2023-04-28,1029,California,Cash,8144.87,4
+511,146,Books,Non-fiction,471.65,1,2022-06-17,1043,California,PayPal,471.65,6
+512,193,Toys,Board Game,393.67,8,2023-08-15,1052,Texas,Credit Card,3149.36,8
+513,161,Electronics,Action Figure,495.71,6,2022-10-21,1009,Florida,PayPal,2974.2599999999998,10
+514,168,Electronics,Laptop,274.52,18,2023-09-30,1086,New York,PayPal,4941.36,9
+515,175,Groceries,Vegetable,481.57,6,2022-12-09,1051,Texas,Cash,2889.42,12
+516,115,Toys,Pants,42.42,5,2022-11-06,1048,Illinois,PayPal,212.10000000000002,11
+517,189,Clothing,Pants,186.01,13,2023-10-24,1010,Florida,Debit Card,2418.13,10
+518,189,Books,Fruit,116.56,19,2023-06-12,1065,Texas,Cash,2214.64,6
+519,147,Clothing,Shirt,101.94,8,2023-06-24,1057,New York,PayPal,815.52,6
+520,184,Toys,Mobile,74.7,9,2023-02-23,1089,California,Credit Card,672.3000000000001,2
+521,138,Electronics,Non-fiction,313.09,17,2023-03-20,1035,Illinois,Credit Card,5322.53,3
+522,199,Electronics,Fruit,391.75,3,2023-11-16,1032,New York,Cash,1175.25,11
+523,132,Toys,Shirt,291.26,19,2023-07-12,1046,Florida,Cash,5533.94,7
+524,193,Electronics,Board Game,77.75,11,2022-08-24,1012,Florida,PayPal,855.25,8
+525,122,Electronics,Fiction,406.51,17,2023-03-15,1039,California,Debit Card,6910.67,3
+526,109,Electronics,Fiction,319.8,19,2022-08-02,1088,California,PayPal,6076.2,8
+527,168,Books,Mobile,197.14,2,2022-03-26,1067,Illinois,Credit Card,394.28,3
+528,199,Books,Action Figure,338.69,8,2022-03-26,1041,Illinois,Debit Card,2709.52,3
+529,133,Groceries,Laptop,133.65,19,2023-05-04,1018,California,Debit Card,2539.35,5
+530,151,Clothing,Fruit,175.87,7,2022-03-06,1081,California,Debit Card,1231.0900000000001,3
+531,194,Toys,Fruit,459.16,17,2023-10-08,1093,Florida,PayPal,7805.72,10
+532,109,Toys,Non-fiction,148.8,6,2023-10-25,1018,California,Credit Card,892.8000000000001,10
+533,118,Toys,Non-fiction,237.64,19,2023-09-19,1057,Texas,Cash,4515.16,9
+534,157,Groceries,Fiction,445.62,6,2022-03-05,1022,New York,PayPal,2673.7200000000003,3
+535,195,Books,Fiction,355.32,2,2022-12-09,1053,California,Cash,710.64,12
+536,100,Groceries,Vegetable,35.79,6,2022-12-18,1079,Illinois,Debit Card,214.74,12
+537,168,Toys,Vegetable,77.92,5,2022-06-07,1064,Texas,Debit Card,389.6,6
+538,103,Clothing,Action Figure,8.88,19,2023-08-12,1011,Illinois,PayPal,168.72000000000003,8
+539,115,Electronics,Vegetable,317.31,4,2023-05-06,1023,Texas,Credit Card,1269.24,5
+540,123,Books,Laptop,226.6,17,2023-10-20,1033,California,Debit Card,3852.2,10
+541,179,Books,Laptop,71.47,11,2023-04-08,1052,New York,Cash,786.17,4
+542,101,Groceries,Fruit,479.18,4,2022-08-13,1007,Illinois,Cash,1916.72,8
+543,191,Books,Pants,267.18,13,2022-11-09,1017,Texas,PayPal,3473.34,11
+544,131,Toys,Laptop,124.74,17,2023-09-07,1056,Florida,Cash,2120.58,9
+545,190,Toys,Shirt,252.8,9,2023-04-11,1004,California,Credit Card,2275.2000000000003,4
+546,183,Groceries,Fiction,341.41,4,2022-03-29,1025,New York,Debit Card,1365.64,3
+547,123,Toys,Non-fiction,42.74,14,2022-10-30,1029,California,Cash,598.36,10
+548,111,Clothing,Vegetable,140.98,19,2023-11-11,1053,Florida,Cash,2678.62,11
+549,149,Groceries,Fruit,404.45,3,2023-03-11,1012,New York,Debit Card,1213.35,3
+550,134,Clothing,Mobile,232.53,14,2023-11-13,1082,Florida,PayPal,3255.42,11
+551,132,Electronics,Non-fiction,275.56,8,2022-05-15,1028,California,Cash,2204.48,5
+552,132,Clothing,Shirt,219.24,1,2022-02-19,1002,Texas,PayPal,219.24,2
+553,160,Electronics,Vegetable,26.73,10,2023-03-08,1089,California,PayPal,267.3,3
+554,150,Electronics,Shirt,87.05,18,2022-12-06,1057,California,Cash,1566.8999999999999,12
+555,142,Clothing,Fiction,225.54,16,2022-12-13,1075,California,Credit Card,3608.64,12
+556,111,Groceries,Fiction,108.55,8,2023-10-08,1001,Illinois,PayPal,868.4,10
+557,166,Toys,Action Figure,29.74,1,2022-12-13,1074,Florida,Cash,29.74,12
+558,164,Toys,Fruit,422.61,12,2023-10-11,1027,Florida,PayPal,5071.32,10
+559,132,Electronics,Non-fiction,490.69,8,2022-09-02,1081,Florida,Debit Card,3925.52,9
+560,139,Electronics,Board Game,397.61,16,2022-04-19,1076,Illinois,Credit Card,6361.76,4
+561,173,Groceries,Board Game,427.62,18,2023-06-17,1085,Texas,Credit Card,7697.16,6
+562,142,Books,Non-fiction,124.78,4,2022-03-31,1075,California,Debit Card,499.12,3
+563,143,Clothing,Mobile,480.51,6,2022-10-23,1001,Texas,Debit Card,2883.06,10
+564,128,Electronics,Fruit,102.48,12,2022-04-22,1006,Illinois,PayPal,1229.76,4
+565,112,Toys,Shirt,475.96,9,2023-08-12,1025,Florida,Debit Card,4283.639999999999,8
+566,111,Groceries,Mobile,497.44,15,2022-06-26,1089,California,Credit Card,7461.6,6
+567,194,Clothing,Pants,357.3,16,2022-12-09,1087,New York,Debit Card,5716.8,12
+568,145,Groceries,Non-fiction,490.67,12,2023-10-22,1075,New York,Cash,5888.04,10
+569,101,Clothing,Shirt,286.92,14,2022-04-11,1015,Texas,Cash,4016.88,4
+570,134,Clothing,Board Game,133.47,13,2023-09-21,1022,Florida,PayPal,1735.11,9
+571,186,Electronics,Laptop,221.31,2,2023-08-27,1039,New York,Credit Card,442.62,8
+572,180,Groceries,Action Figure,298.81,3,2023-02-05,1059,Texas,Cash,896.4300000000001,2
+573,189,Groceries,Board Game,41.18,10,2022-01-28,1072,Illinois,Debit Card,411.8,1
+574,107,Toys,Fruit,313.06,9,2023-06-21,1031,Texas,Cash,2817.54,6
+575,192,Toys,Fiction,490.68,8,2022-02-27,1014,Texas,Cash,3925.44,2
+576,125,Electronics,Laptop,99.1,10,2023-05-13,1012,Texas,PayPal,991.0,5
+577,173,Electronics,Action Figure,397.33,19,2022-10-24,1004,California,Debit Card,7549.2699999999995,10
+578,189,Books,Action Figure,454.41,3,2022-05-14,1074,Texas,Debit Card,1363.23,5
+579,133,Toys,Pants,472.13,5,2022-11-27,1073,Texas,Debit Card,2360.65,11
+580,106,Clothing,Pants,480.27,3,2022-09-06,1051,California,PayPal,1440.81,9
+581,167,Groceries,Vegetable,263.12,16,2023-07-04,1076,California,Debit Card,4209.92,7
+582,157,Electronics,Board Game,488.77,17,2022-03-16,1040,Illinois,Debit Card,8309.09,3
+583,174,Groceries,Board Game,379.87,15,2023-10-16,1052,Florida,Cash,5698.05,10
+584,128,Groceries,Board Game,85.03,3,2022-06-17,1049,New York,Cash,255.09,6
+585,135,Books,Vegetable,241.07,12,2023-05-18,1014,New York,Debit Card,2892.84,5
+586,188,Toys,Mobile,360.57,9,2022-12-21,1006,Texas,Credit Card,3245.13,12
+587,120,Electronics,Action Figure,127.43,12,2022-08-13,1039,Illinois,Credit Card,1529.16,8
+588,135,Groceries,Laptop,322.1,15,2023-10-26,1027,Texas,Debit Card,4831.5,10
+589,109,Electronics,Fruit,334.97,2,2023-06-15,1031,New York,Credit Card,669.94,6
+590,172,Clothing,Action Figure,85.54,18,2022-05-26,1098,California,PayPal,1539.72,5
+591,123,Books,Pants,284.72,12,2022-08-29,1014,Florida,Cash,3416.6400000000003,8
+592,163,Clothing,Shirt,386.96,4,2022-12-10,1099,Illinois,PayPal,1547.84,12
+593,198,Electronics,Fiction,251.95,16,2022-02-04,1084,California,Cash,4031.2,2
+594,148,Electronics,Vegetable,10.99,16,2023-12-03,1069,Florida,Credit Card,175.84,12
+595,198,Toys,Non-fiction,9.47,1,2022-01-01,1064,Illinois,Credit Card,9.47,1
+596,135,Groceries,Shirt,181.73,2,2022-06-02,1003,Illinois,Debit Card,363.46,6
+597,181,Groceries,Fruit,463.47,3,2023-03-05,1010,New York,Credit Card,1390.41,3
+598,195,Clothing,Board Game,118.2,17,2023-05-23,1025,California,Credit Card,2009.4,5
+599,123,Books,Pants,319.01,1,2022-05-06,1060,Illinois,Debit Card,319.01,5
+600,122,Groceries,Pants,114.93,6,2023-05-06,1036,Illinois,Debit Card,689.58,5
+601,161,Toys,Pants,164.23,15,2023-04-27,1022,Florida,Cash,2463.45,4
+602,195,Clothing,Board Game,424.78,14,2022-12-11,1092,New York,Credit Card,5946.92,12
+603,136,Clothing,Non-fiction,365.79,15,2022-08-09,1084,Texas,Cash,5486.85,8
+604,111,Toys,Vegetable,52.22,14,2023-12-24,1090,New York,Cash,731.0799999999999,12
+605,154,Books,Shirt,217.21,5,2022-01-25,1039,Texas,PayPal,1086.05,1
+606,112,Toys,Board Game,19.44,6,2023-06-12,1076,California,Credit Card,116.64000000000001,6
+607,122,Books,Fruit,243.04,17,2022-07-01,1022,California,Credit Card,4131.68,7
+608,188,Toys,Vegetable,332.9,11,2023-05-14,1015,Illinois,PayPal,3661.8999999999996,5
+609,198,Toys,Fruit,63.66,16,2023-10-03,1093,California,Cash,1018.56,10
+610,129,Electronics,Vegetable,148.0,12,2022-02-11,1060,Illinois,Credit Card,1776.0,2
+611,116,Clothing,Non-fiction,201.93,15,2023-04-26,1067,New York,Cash,3028.9500000000003,4
+612,161,Toys,Fiction,460.17,4,2023-03-15,1079,California,PayPal,1840.68,3
+613,183,Toys,Fruit,496.66,18,2023-02-06,1030,New York,Debit Card,8939.880000000001,2
+614,188,Groceries,Board Game,27.23,3,2023-06-30,1052,New York,Cash,81.69,6
+615,185,Clothing,Vegetable,381.7,8,2022-12-11,1024,California,Credit Card,3053.6,12
+616,112,Groceries,Pants,189.0,3,2022-02-14,1043,New York,Debit Card,567.0,2
+617,158,Clothing,Action Figure,199.27,8,2023-10-08,1011,California,Cash,1594.16,10
+618,118,Groceries,Pants,378.36,18,2022-01-21,1089,California,Cash,6810.4800000000005,1
+619,148,Toys,Mobile,459.62,10,2023-09-26,1096,California,Debit Card,4596.2,9
+620,199,Toys,Fiction,475.71,17,2022-03-11,1091,Texas,Debit Card,8087.07,3
+621,111,Electronics,Fiction,290.68,8,2022-02-17,1008,New York,Debit Card,2325.44,2
+622,160,Groceries,Pants,181.77,11,2023-05-06,1011,Florida,Credit Card,1999.47,5
+623,118,Books,Shirt,394.84,5,2023-07-05,1068,California,Credit Card,1974.1999999999998,7
+624,175,Electronics,Non-fiction,129.25,13,2022-10-14,1053,New York,Cash,1680.25,10
+625,108,Groceries,Fruit,284.22,5,2022-01-10,1053,Illinois,Cash,1421.1000000000001,1
+626,170,Groceries,Board Game,182.5,13,2023-06-26,1027,California,PayPal,2372.5,6
+627,127,Electronics,Fiction,330.03,6,2022-10-01,1055,California,Credit Card,1980.1799999999998,10
+628,177,Toys,Pants,124.0,5,2023-08-23,1098,Florida,Cash,620.0,8
+629,194,Groceries,Pants,99.84,9,2023-01-16,1068,Texas,Debit Card,898.5600000000001,1
+630,151,Toys,Non-fiction,459.53,16,2022-11-25,1097,Texas,Debit Card,7352.48,11
+631,182,Electronics,Non-fiction,55.39,2,2023-04-24,1097,California,Credit Card,110.78,4
+632,115,Toys,Laptop,255.45,1,2022-01-15,1076,New York,Debit Card,255.45,1
+633,168,Clothing,Laptop,114.32,8,2023-05-31,1057,Illinois,PayPal,914.56,5
+634,198,Books,Shirt,24.27,19,2022-07-10,1077,Illinois,Cash,461.13,7
+635,111,Groceries,Shirt,22.83,11,2022-06-17,1074,New York,Cash,251.13,6
+636,124,Books,Mobile,91.73,12,2023-06-05,1041,California,Cash,1100.76,6
+637,151,Toys,Shirt,434.05,12,2023-09-13,1037,Illinois,Credit Card,5208.6,9
+638,184,Groceries,Vegetable,144.83,7,2022-05-17,1067,Texas,Debit Card,1013.8100000000001,5
+639,199,Toys,Non-fiction,475.48,13,2022-06-03,1052,New York,PayPal,6181.24,6
+640,152,Clothing,Board Game,292.9,8,2023-01-23,1032,Florida,Credit Card,2343.2,1
+641,122,Electronics,Vegetable,221.12,9,2022-07-28,1070,California,Cash,1990.08,7
+642,115,Groceries,Fruit,292.14,7,2022-09-29,1055,New York,PayPal,2044.98,9
+643,156,Clothing,Pants,260.77,15,2022-05-23,1071,Illinois,Cash,3911.5499999999997,5
+644,138,Clothing,Shirt,380.59,2,2023-09-03,1050,California,Cash,761.18,9
+645,152,Groceries,Pants,144.84,12,2022-03-10,1073,Texas,Credit Card,1738.08,3
+646,141,Toys,Fiction,179.76,1,2022-09-04,1042,California,Cash,179.76,9
+647,157,Clothing,Mobile,447.58,8,2022-09-18,1014,California,PayPal,3580.64,9
+648,138,Books,Fiction,473.5,5,2022-03-20,1037,Texas,Cash,2367.5,3
+649,113,Clothing,Mobile,446.82,15,2023-10-20,1014,Texas,Debit Card,6702.3,10
+650,194,Toys,Laptop,212.63,1,2023-09-15,1004,California,Cash,212.63,9
+651,104,Toys,Pants,391.28,1,2023-08-28,1092,Texas,Credit Card,391.28,8
+652,134,Books,Mobile,240.79,10,2023-06-09,1082,New York,PayPal,2407.9,6
+653,186,Clothing,Action Figure,251.28,10,2023-09-13,1053,Texas,Credit Card,2512.8,9
+654,192,Toys,Vegetable,106.32,15,2022-11-26,1050,Texas,Debit Card,1594.8,11
+655,174,Groceries,Mobile,297.61,17,2022-07-08,1009,California,Cash,5059.37,7
+656,117,Electronics,Mobile,97.14,6,2022-04-05,1011,New York,Credit Card,582.84,4
+657,175,Electronics,Vegetable,169.12,3,2023-09-09,1003,Florida,Credit Card,507.36,9
+658,108,Electronics,Pants,428.24,13,2022-01-08,1094,Florida,Credit Card,5567.12,1
+659,173,Clothing,Pants,107.5,16,2022-03-08,1017,Illinois,Credit Card,1720.0,3
+660,157,Books,Vegetable,40.22,8,2023-05-11,1079,Texas,Debit Card,321.76,5
+661,116,Toys,Fiction,39.16,15,2022-07-10,1035,Texas,Debit Card,587.4,7
+662,106,Groceries,Action Figure,470.69,17,2023-01-01,1024,New York,Cash,8001.73,1
+663,145,Groceries,Board Game,255.93,17,2023-06-05,1086,Florida,Cash,4350.81,6
+664,112,Clothing,Fruit,207.66,13,2022-04-27,1075,Illinois,PayPal,2699.58,4
+665,139,Electronics,Action Figure,406.38,17,2022-09-24,1097,New York,Debit Card,6908.46,9
+666,141,Clothing,Pants,418.73,6,2023-09-03,1035,Texas,Credit Card,2512.38,9
+667,108,Books,Board Game,169.43,17,2023-04-30,1066,Florida,Credit Card,2880.31,4
+668,149,Books,Laptop,348.34,16,2023-05-24,1008,Illinois,PayPal,5573.44,5
+669,126,Toys,Shirt,386.71,14,2022-10-25,1060,California,Credit Card,5413.94,10
+670,165,Toys,Mobile,329.05,13,2022-06-13,1052,Florida,PayPal,4277.650000000001,6
+671,104,Books,Vegetable,80.04,6,2023-01-11,1017,Illinois,Cash,480.24,1
+672,128,Books,Vegetable,438.56,3,2023-10-15,1042,New York,Debit Card,1315.68,10
+673,136,Books,Mobile,271.85,14,2022-09-25,1034,California,PayPal,3805.9000000000005,9
+674,137,Clothing,Shirt,144.82,14,2023-07-03,1062,Illinois,Credit Card,2027.48,7
+675,182,Books,Fruit,215.49,15,2022-03-15,1097,Illinois,PayPal,3232.3500000000004,3
+676,107,Groceries,Shirt,23.6,8,2023-05-23,1077,Texas,Cash,188.8,5
+677,164,Electronics,Board Game,68.29,15,2022-03-14,1003,Florida,Credit Card,1024.3500000000001,3
+678,185,Books,Shirt,383.95,13,2022-11-04,1092,Texas,Cash,4991.349999999999,11
+679,116,Electronics,Board Game,5.01,17,2022-07-18,1040,California,Cash,85.17,7
+680,170,Clothing,Shirt,211.2,3,2022-05-10,1044,Illinois,PayPal,633.5999999999999,5
+681,188,Electronics,Fruit,263.64,6,2023-07-26,1049,Texas,Cash,1581.84,7
+682,144,Clothing,Fruit,32.04,5,2023-09-07,1078,Florida,Credit Card,160.2,9
+683,103,Groceries,Pants,486.67,17,2023-05-02,1027,California,Cash,8273.39,5
+684,135,Clothing,Mobile,116.93,2,2022-05-31,1041,New York,Cash,233.86,5
+685,169,Clothing,Fruit,155.58,15,2023-10-31,1079,Texas,PayPal,2333.7000000000003,10
+686,130,Toys,Board Game,155.45,5,2022-07-25,1075,California,Cash,777.25,7
+687,118,Books,Fruit,119.06,6,2022-06-28,1068,New York,Debit Card,714.36,6
+688,160,Books,Pants,5.73,6,2022-07-16,1097,Texas,PayPal,34.38,7
+689,153,Groceries,Vegetable,366.03,18,2022-03-30,1000,California,PayPal,6588.539999999999,3
+690,138,Groceries,Board Game,483.59,18,2023-03-10,1038,California,Credit Card,8704.619999999999,3
+691,190,Books,Pants,116.03,4,2022-07-02,1095,Texas,Credit Card,464.12,7
+692,173,Toys,Fiction,333.21,17,2022-07-28,1089,California,Credit Card,5664.57,7
+693,189,Books,Fiction,372.24,14,2023-05-08,1016,Illinois,Credit Card,5211.360000000001,5
+694,118,Toys,Laptop,424.97,14,2022-05-10,1090,Texas,Debit Card,5949.58,5
+695,138,Groceries,Shirt,214.2,13,2023-10-27,1087,California,PayPal,2784.6,10
+696,166,Electronics,Mobile,154.95,7,2022-01-13,1034,New York,Cash,1084.6499999999999,1
+697,144,Groceries,Non-fiction,166.02,12,2023-09-26,1045,New York,Credit Card,1992.2400000000002,9
+698,112,Groceries,Action Figure,357.75,15,2022-04-16,1041,Illinois,Credit Card,5366.25,4
+699,191,Clothing,Pants,409.31,19,2023-01-10,1038,Texas,Credit Card,7776.89,1
+700,157,Clothing,Vegetable,94.9,11,2023-08-05,1089,California,Cash,1043.9,8
+701,119,Clothing,Action Figure,188.62,15,2023-12-08,1048,California,Credit Card,2829.3,12
+702,191,Clothing,Vegetable,451.46,12,2023-11-29,1061,New York,Cash,5417.5199999999995,11
+703,171,Toys,Action Figure,404.31,3,2022-04-09,1037,Illinois,PayPal,1212.93,4
+704,160,Books,Pants,492.5,17,2023-08-17,1022,New York,PayPal,8372.5,8
+705,138,Electronics,Non-fiction,378.35,3,2023-08-10,1021,New York,PayPal,1135.0500000000002,8
+706,100,Groceries,Action Figure,199.63,19,2022-07-11,1003,Illinois,Debit Card,3792.97,7
+707,102,Toys,Pants,297.37,4,2022-11-21,1048,Texas,Cash,1189.48,11
+708,176,Electronics,Fruit,332.2,3,2023-12-27,1058,California,Credit Card,996.5999999999999,12
+709,191,Toys,Non-fiction,43.84,16,2023-04-12,1072,Texas,Credit Card,701.44,4
+710,161,Toys,Board Game,274.53,12,2023-01-02,1067,Florida,Credit Card,3294.3599999999997,1
+711,162,Groceries,Vegetable,356.11,8,2022-11-14,1070,Florida,Credit Card,2848.88,11
+712,124,Books,Fiction,87.82,17,2022-05-24,1086,Florida,Debit Card,1492.9399999999998,5
+713,155,Clothing,Shirt,391.41,7,2023-01-19,1001,Illinois,Credit Card,2739.8700000000003,1
+714,132,Books,Fiction,293.97,11,2022-08-04,1048,New York,Debit Card,3233.67,8
+715,137,Groceries,Non-fiction,476.35,18,2022-12-27,1087,Texas,Cash,8574.300000000001,12
+716,105,Groceries,Board Game,26.0,1,2022-11-20,1094,California,PayPal,26.0,11
+717,157,Groceries,Vegetable,136.34,3,2022-01-15,1030,Florida,Credit Card,409.02,1
+718,143,Electronics,Board Game,302.77,4,2022-08-05,1039,Texas,PayPal,1211.08,8
+719,144,Books,Action Figure,151.8,13,2023-05-07,1047,Florida,Cash,1973.4,5
+720,131,Books,Vegetable,358.64,6,2023-07-01,1050,Florida,Cash,2151.84,7
+721,144,Toys,Action Figure,380.71,14,2022-07-02,1042,California,Credit Card,5329.94,7
+722,160,Toys,Pants,55.75,5,2022-09-27,1097,Illinois,Cash,278.75,9
+723,146,Toys,Non-fiction,259.36,16,2023-04-12,1054,New York,PayPal,4149.76,4
+724,120,Groceries,Pants,256.9,15,2023-09-04,1087,Illinois,Credit Card,3853.4999999999995,9
+725,179,Books,Laptop,187.79,15,2023-06-03,1048,Texas,Debit Card,2816.85,6
+726,184,Groceries,Board Game,466.8,4,2023-06-26,1089,Illinois,Credit Card,1867.2,6
+727,174,Electronics,Action Figure,414.62,8,2023-04-12,1079,Texas,PayPal,3316.96,4
+728,135,Toys,Fruit,350.12,16,2022-11-01,1056,Texas,Credit Card,5601.92,11
+729,198,Groceries,Pants,358.59,16,2022-05-24,1076,New York,Credit Card,5737.44,5
+730,118,Groceries,Laptop,233.55,4,2022-04-21,1014,California,PayPal,934.2,4
+731,119,Electronics,Mobile,460.89,13,2022-08-20,1026,New York,Credit Card,5991.57,8
+732,156,Clothing,Fiction,348.82,13,2023-11-22,1067,Illinois,Credit Card,4534.66,11
+733,117,Books,Vegetable,365.85,2,2023-08-07,1079,Texas,PayPal,731.7,8
+734,146,Clothing,Laptop,431.54,3,2023-12-23,1063,Florida,Cash,1294.6200000000001,12
+735,148,Toys,Non-fiction,140.67,8,2023-08-15,1093,Florida,PayPal,1125.36,8
+736,113,Groceries,Pants,404.5,15,2023-05-15,1029,Texas,Credit Card,6067.5,5
+737,114,Electronics,Non-fiction,101.64,11,2023-08-18,1035,New York,Debit Card,1118.04,8
+738,130,Electronics,Fiction,175.94,9,2023-07-08,1066,California,Debit Card,1583.46,7
+739,100,Books,Fruit,171.13,7,2022-09-30,1085,New York,PayPal,1197.9099999999999,9
+740,153,Clothing,Board Game,489.37,13,2023-12-04,1085,Texas,Debit Card,6361.81,12
+741,102,Books,Board Game,428.99,2,2022-06-22,1048,Texas,Credit Card,857.98,6
+742,115,Groceries,Non-fiction,352.08,8,2022-01-07,1075,California,Credit Card,2816.64,1
+743,186,Books,Action Figure,364.89,7,2022-06-04,1054,Illinois,PayPal,2554.23,6
+744,156,Electronics,Fruit,283.23,12,2023-06-06,1084,Illinois,Credit Card,3398.76,6
+745,174,Electronics,Board Game,473.81,19,2023-06-30,1055,California,Cash,9002.39,6
+746,111,Toys,Fruit,250.65,7,2023-07-02,1067,Illinois,Credit Card,1754.55,7
+747,173,Toys,Laptop,193.36,10,2023-06-02,1094,Florida,PayPal,1933.6000000000001,6
+748,195,Groceries,Fruit,85.7,16,2022-08-03,1043,Illinois,Cash,1371.2,8
+749,115,Clothing,Shirt,394.17,3,2022-05-14,1030,Illinois,Cash,1182.51,5
+750,171,Books,Fiction,368.55,10,2022-10-12,1057,Illinois,Debit Card,3685.5,10
+751,175,Groceries,Board Game,195.26,6,2022-05-06,1086,Florida,Credit Card,1171.56,5
+752,123,Toys,Fruit,17.47,18,2023-03-15,1052,Illinois,PayPal,314.46,3
+753,127,Books,Non-fiction,420.3,18,2023-11-17,1083,Florida,Debit Card,7565.400000000001,11
+754,107,Toys,Mobile,10.65,5,2022-06-01,1078,California,Debit Card,53.25,6
+755,191,Books,Shirt,353.33,7,2022-11-27,1022,New York,Credit Card,2473.31,11
+756,135,Clothing,Shirt,485.28,2,2023-06-22,1027,California,Credit Card,970.56,6
+757,189,Groceries,Action Figure,221.64,11,2023-01-18,1015,New York,PayPal,2438.04,1
+758,107,Books,Fruit,121.31,13,2022-04-25,1036,California,Debit Card,1577.03,4
+759,157,Electronics,Action Figure,353.91,5,2023-04-27,1020,New York,PayPal,1769.5500000000002,4
+760,159,Electronics,Action Figure,409.48,6,2022-10-11,1078,New York,Debit Card,2456.88,10
+761,149,Books,Mobile,275.48,14,2022-03-16,1016,Texas,Debit Card,3856.7200000000003,3
+762,127,Books,Laptop,483.68,12,2022-06-15,1036,New York,Debit Card,5804.16,6
+763,191,Books,Fruit,30.58,4,2022-07-08,1076,New York,Credit Card,122.32,7
+764,140,Electronics,Pants,254.87,6,2022-03-19,1018,Texas,Debit Card,1529.22,3
+765,199,Electronics,Board Game,360.63,10,2023-08-25,1029,Illinois,Debit Card,3606.3,8
+766,163,Books,Action Figure,432.01,18,2023-11-19,1044,Illinois,Debit Card,7776.18,11
+767,126,Toys,Fiction,93.73,15,2022-01-21,1017,Texas,Cash,1405.95,1
+768,162,Toys,Vegetable,401.0,8,2023-07-20,1077,Florida,Credit Card,3208.0,7
+769,116,Clothing,Fiction,278.59,9,2022-07-03,1061,New York,Cash,2507.31,7
+770,172,Groceries,Mobile,201.29,5,2022-08-10,1035,New York,Credit Card,1006.4499999999999,8
+771,132,Toys,Mobile,70.2,10,2022-11-24,1099,Texas,PayPal,702.0,11
+772,183,Electronics,Non-fiction,433.32,6,2022-06-28,1083,Texas,Cash,2599.92,6
+773,176,Toys,Laptop,82.85,16,2022-04-22,1051,Florida,PayPal,1325.6,4
+774,191,Clothing,Board Game,158.34,3,2023-12-27,1018,Illinois,Debit Card,475.02,12
+775,128,Clothing,Action Figure,148.57,10,2022-02-28,1043,California,PayPal,1485.6999999999998,2
+776,112,Groceries,Fiction,436.35,11,2022-11-23,1006,Illinois,PayPal,4799.85,11
+777,145,Toys,Vegetable,337.99,11,2023-09-13,1043,New York,PayPal,3717.8900000000003,9
+778,134,Electronics,Mobile,399.36,17,2023-10-31,1067,Texas,PayPal,6789.12,10
+779,105,Electronics,Mobile,128.98,4,2022-07-10,1033,Florida,Credit Card,515.92,7
+780,181,Books,Laptop,314.31,4,2022-07-19,1065,Illinois,Cash,1257.24,7
+781,168,Electronics,Vegetable,288.01,17,2022-11-08,1068,Florida,Credit Card,4896.17,11
+782,146,Groceries,Vegetable,417.25,9,2023-12-09,1054,Illinois,Credit Card,3755.25,12
+783,124,Groceries,Laptop,453.51,19,2022-02-04,1009,New York,Credit Card,8616.69,2
+784,165,Electronics,Mobile,11.02,5,2023-01-14,1095,California,PayPal,55.099999999999994,1
+785,109,Electronics,Board Game,338.64,6,2023-01-22,1041,Florida,Credit Card,2031.84,1
+786,155,Books,Fruit,30.66,3,2022-08-25,1040,Florida,Cash,91.98,8
+787,129,Electronics,Fruit,276.69,1,2023-09-08,1076,California,Credit Card,276.69,9
+788,104,Books,Laptop,147.38,16,2023-06-03,1068,Florida,Debit Card,2358.08,6
+789,132,Books,Vegetable,156.85,11,2022-10-10,1009,Florida,PayPal,1725.35,10
+790,164,Electronics,Action Figure,179.71,13,2022-01-01,1009,Illinois,Debit Card,2336.23,1
+791,117,Clothing,Laptop,312.54,10,2023-04-09,1090,Illinois,Cash,3125.4,4
+792,195,Clothing,Board Game,170.35,3,2022-08-18,1059,California,Cash,511.04999999999995,8
+793,148,Books,Laptop,367.69,9,2022-06-21,1050,New York,Cash,3309.21,6
+794,110,Electronics,Shirt,205.24,12,2022-03-28,1020,Florida,Cash,2462.88,3
+795,184,Clothing,Fiction,38.83,14,2023-07-07,1007,New York,Credit Card,543.62,7
+796,125,Electronics,Vegetable,392.96,1,2022-05-03,1064,California,PayPal,392.96,5
+797,162,Electronics,Non-fiction,146.45,18,2022-10-25,1091,California,Cash,2636.1,10
+798,188,Electronics,Non-fiction,219.22,17,2023-11-21,1077,Illinois,Debit Card,3726.74,11
+799,185,Toys,Vegetable,344.29,9,2023-07-29,1084,Florida,Cash,3098.61,7
+800,158,Electronics,Board Game,169.57,9,2023-04-29,1029,Texas,PayPal,1526.1299999999999,4
+801,126,Toys,Shirt,33.01,10,2022-06-14,1084,California,Debit Card,330.09999999999997,6
+802,148,Books,Shirt,190.09,19,2023-11-30,1048,Florida,Debit Card,3611.71,11
+803,176,Clothing,Mobile,472.5,15,2023-01-18,1008,New York,Debit Card,7087.5,1
+804,132,Clothing,Fiction,322.66,5,2022-07-28,1016,Illinois,Credit Card,1613.3000000000002,7
+805,197,Clothing,Fruit,337.38,15,2023-03-08,1068,New York,Cash,5060.7,3
+806,198,Clothing,Pants,317.98,2,2023-01-24,1057,California,Credit Card,635.96,1
+807,100,Clothing,Board Game,103.5,13,2023-07-14,1056,California,Debit Card,1345.5,7
+808,120,Clothing,Pants,212.08,16,2022-08-12,1061,New York,Credit Card,3393.28,8
+809,154,Clothing,Pants,376.72,15,2022-01-03,1094,California,Credit Card,5650.8,1
+810,105,Books,Vegetable,55.18,10,2023-01-07,1051,Florida,Credit Card,551.8,1
+811,191,Electronics,Non-fiction,142.54,14,2023-11-18,1060,California,Cash,1995.56,11
+812,180,Groceries,Non-fiction,141.78,10,2023-03-22,1039,Illinois,Debit Card,1417.8,3
+813,168,Toys,Fruit,218.85,14,2023-09-03,1037,Florida,Debit Card,3063.9,9
+814,194,Groceries,Vegetable,490.28,9,2022-04-26,1042,Texas,Cash,4412.5199999999995,4
+815,104,Groceries,Pants,38.41,14,2022-09-27,1062,California,Credit Card,537.74,9
+816,102,Electronics,Action Figure,261.76,3,2023-03-23,1018,California,Credit Card,785.28,3
+817,152,Electronics,Non-fiction,93.79,16,2023-01-03,1099,Illinois,PayPal,1500.64,1
+818,122,Electronics,Board Game,485.48,2,2022-09-10,1049,Illinois,PayPal,970.96,9
+819,152,Clothing,Board Game,61.09,10,2022-11-13,1032,New York,PayPal,610.9000000000001,11
+820,136,Books,Mobile,204.78,3,2023-02-19,1012,New York,Cash,614.34,2
+821,173,Clothing,Laptop,370.25,11,2022-04-05,1077,New York,Debit Card,4072.75,4
+822,173,Books,Action Figure,353.75,11,2022-01-24,1096,Illinois,PayPal,3891.25,1
+823,182,Books,Non-fiction,214.25,13,2023-09-20,1061,New York,Debit Card,2785.25,9
+824,116,Groceries,Shirt,176.53,7,2023-10-25,1092,New York,Debit Card,1235.71,10
+825,184,Groceries,Non-fiction,201.82,17,2022-02-19,1042,Texas,Debit Card,3430.94,2
+826,177,Books,Mobile,135.82,2,2023-05-17,1048,New York,Cash,271.64,5
+827,172,Books,Board Game,106.64,12,2023-12-19,1035,California,Cash,1279.68,12
+828,100,Clothing,Pants,244.1,10,2023-05-13,1009,Illinois,Cash,2441.0,5
+829,150,Clothing,Shirt,137.92,18,2022-12-01,1094,Florida,Cash,2482.56,12
+830,144,Groceries,Vegetable,147.29,11,2022-03-20,1005,Texas,PayPal,1620.1899999999998,3
+831,176,Electronics,Fiction,330.09,16,2023-08-05,1056,Illinois,Credit Card,5281.44,8
+832,103,Books,Pants,484.43,17,2022-01-27,1000,Illinois,Credit Card,8235.31,1
+833,161,Clothing,Fiction,303.8,19,2022-09-28,1070,California,Credit Card,5772.2,9
+834,164,Groceries,Action Figure,43.1,18,2023-07-16,1057,New York,PayPal,775.8000000000001,7
+835,131,Clothing,Laptop,42.41,3,2022-09-04,1090,California,Credit Card,127.22999999999999,9
+836,133,Books,Shirt,475.95,16,2023-08-14,1020,New York,PayPal,7615.2,8
+837,191,Books,Fruit,152.16,6,2023-01-22,1091,New York,PayPal,912.96,1
+838,194,Toys,Shirt,50.57,12,2023-12-03,1079,Illinois,PayPal,606.84,12
+839,171,Electronics,Non-fiction,301.53,11,2023-07-13,1055,New York,Credit Card,3316.83,7
+840,138,Toys,Board Game,313.71,15,2022-12-27,1086,Texas,Debit Card,4705.65,12
+841,125,Groceries,Non-fiction,326.01,15,2023-05-03,1019,Texas,Credit Card,4890.15,5
+842,133,Clothing,Non-fiction,137.36,16,2022-12-18,1053,Texas,Credit Card,2197.76,12
+843,153,Groceries,Action Figure,12.48,10,2023-12-02,1024,Illinois,Cash,124.80000000000001,12
+844,102,Books,Pants,482.68,12,2022-09-13,1027,California,PayPal,5792.16,9
+845,149,Toys,Fruit,129.19,13,2022-08-10,1004,Florida,Debit Card,1679.47,8
+846,111,Toys,Fruit,339.63,4,2022-01-01,1020,New York,Cash,1358.52,1
+847,164,Toys,Non-fiction,354.78,7,2023-06-30,1017,Florida,Debit Card,2483.46,6
+848,153,Groceries,Fiction,306.95,2,2023-03-22,1046,California,Debit Card,613.9,3
+849,104,Books,Action Figure,159.89,15,2022-03-20,1069,California,PayPal,2398.35,3
+850,193,Clothing,Non-fiction,139.19,8,2022-08-24,1056,Illinois,Credit Card,1113.52,8
+851,193,Clothing,Laptop,300.85,7,2022-11-30,1092,Texas,PayPal,2105.9500000000003,11
+852,156,Groceries,Board Game,433.72,15,2022-12-15,1018,Texas,PayPal,6505.8,12
+853,116,Toys,Pants,473.63,14,2022-04-08,1096,California,Cash,6630.82,4
+854,146,Electronics,Vegetable,57.42,8,2022-03-23,1064,Illinois,PayPal,459.36,3
+855,122,Groceries,Laptop,81.64,12,2023-05-17,1002,Illinois,Credit Card,979.6800000000001,5
+856,178,Groceries,Fiction,472.64,13,2023-04-22,1041,New York,Debit Card,6144.32,4
+857,184,Books,Shirt,369.58,11,2023-12-05,1020,Texas,PayPal,4065.3799999999997,12
+858,113,Clothing,Shirt,442.08,17,2023-07-04,1098,California,Debit Card,7515.36,7
+859,165,Groceries,Laptop,105.3,17,2022-01-14,1039,Florida,PayPal,1790.1,1
+860,174,Groceries,Non-fiction,295.86,4,2023-01-27,1066,Texas,Debit Card,1183.44,1
+861,150,Toys,Vegetable,352.06,8,2022-12-13,1024,New York,PayPal,2816.48,12
+862,137,Toys,Mobile,341.66,5,2022-11-06,1054,Illinois,Cash,1708.3000000000002,11
+863,163,Electronics,Mobile,207.04,16,2023-01-21,1083,California,Debit Card,3312.64,1
+864,197,Books,Fiction,12.62,4,2022-07-28,1051,Texas,PayPal,50.48,7
+865,137,Electronics,Non-fiction,293.55,15,2022-12-23,1043,Florida,PayPal,4403.25,12
+866,149,Toys,Fruit,130.29,12,2023-08-24,1097,New York,Cash,1563.48,8
+867,197,Clothing,Fruit,227.88,5,2023-07-22,1084,New York,Cash,1139.4,7
+868,181,Toys,Pants,479.0,16,2022-04-04,1055,Texas,Cash,7664.0,4
+869,129,Books,Vegetable,202.52,14,2022-04-03,1054,Florida,Debit Card,2835.28,4
+870,178,Toys,Vegetable,420.7,10,2022-12-06,1086,New York,Debit Card,4207.0,12
+871,190,Books,Shirt,98.33,7,2023-08-20,1069,California,Cash,688.31,8
+872,150,Books,Action Figure,337.87,13,2023-03-21,1076,New York,Credit Card,4392.31,3
+873,162,Books,Fiction,488.62,5,2022-01-22,1086,Florida,Credit Card,2443.1,1
+874,197,Books,Mobile,55.44,3,2022-10-18,1072,Illinois,PayPal,166.32,10
+875,151,Books,Fiction,9.12,15,2023-04-30,1080,Illinois,Credit Card,136.79999999999998,4
+876,137,Clothing,Fruit,219.62,4,2022-11-02,1065,Texas,PayPal,878.48,11
+877,196,Electronics,Fruit,50.85,15,2023-09-26,1018,Florida,Debit Card,762.75,9
+878,187,Groceries,Laptop,375.45,14,2022-05-08,1082,New York,Debit Card,5256.3,5
+879,178,Electronics,Pants,457.7,19,2023-09-17,1006,New York,Credit Card,8696.3,9
+880,129,Books,Vegetable,219.84,13,2022-09-30,1062,Illinois,Debit Card,2857.92,9
+881,150,Clothing,Board Game,133.06,10,2023-03-18,1041,Illinois,Cash,1330.6,3
+882,180,Toys,Fiction,220.03,5,2023-05-18,1041,California,Cash,1100.15,5
+883,104,Clothing,Fruit,363.11,6,2022-05-10,1058,Illinois,Credit Card,2178.66,5
+884,128,Books,Action Figure,9.48,4,2022-05-12,1019,California,Credit Card,37.92,5
+885,103,Clothing,Shirt,296.78,2,2023-08-20,1072,New York,PayPal,593.56,8
+886,109,Clothing,Mobile,308.58,16,2023-04-27,1016,California,Debit Card,4937.28,4
+887,155,Books,Pants,320.66,18,2023-01-25,1026,California,PayPal,5771.88,1
+888,116,Clothing,Action Figure,124.8,5,2023-08-16,1046,Texas,PayPal,624.0,8
+889,173,Groceries,Pants,358.46,4,2022-11-21,1001,Illinois,Cash,1433.84,11
+890,116,Groceries,Laptop,50.24,13,2022-03-10,1062,California,Cash,653.12,3
+891,183,Clothing,Board Game,103.64,19,2023-10-22,1061,New York,Cash,1969.16,10
+892,187,Toys,Fruit,439.35,2,2023-03-24,1099,Florida,Cash,878.7,3
+893,168,Books,Shirt,370.67,13,2023-06-12,1018,California,PayPal,4818.71,6
+894,133,Groceries,Action Figure,11.8,11,2023-09-09,1016,Illinois,Cash,129.8,9
+895,105,Toys,Pants,127.95,4,2022-06-14,1068,Texas,Debit Card,511.8,6
+896,152,Clothing,Vegetable,111.13,15,2023-05-03,1038,New York,Cash,1666.9499999999998,5
+897,165,Toys,Laptop,139.05,4,2023-12-14,1081,Texas,Cash,556.2,12
+898,176,Electronics,Vegetable,127.54,9,2023-12-10,1070,Florida,Cash,1147.8600000000001,12
+899,142,Groceries,Shirt,35.95,7,2023-03-02,1080,California,Credit Card,251.65000000000003,3
+900,174,Clothing,Action Figure,232.18,19,2023-11-28,1038,California,Debit Card,4411.42,11
+901,122,Books,Laptop,367.7,19,2022-09-22,1035,Illinois,Debit Card,6986.3,9
+902,154,Clothing,Action Figure,305.33,6,2023-09-04,1039,California,PayPal,1831.98,9
+903,179,Books,Fruit,338.07,6,2022-12-08,1044,New York,PayPal,2028.42,12
+904,194,Clothing,Non-fiction,45.17,15,2023-12-27,1003,Florida,Cash,677.5500000000001,12
+905,174,Toys,Laptop,475.99,15,2022-10-05,1024,Texas,Credit Card,7139.85,10
+906,115,Toys,Vegetable,420.05,9,2023-11-05,1068,Florida,PayPal,3780.4500000000003,11
+907,107,Toys,Shirt,403.52,4,2023-03-15,1029,California,PayPal,1614.08,3
+908,103,Electronics,Board Game,412.38,18,2022-06-06,1075,Texas,Cash,7422.84,6
+909,103,Books,Fruit,466.69,18,2023-02-26,1067,Illinois,Cash,8400.42,2
+910,155,Toys,Non-fiction,274.41,5,2022-09-08,1087,Florida,PayPal,1372.0500000000002,9
+911,124,Electronics,Board Game,104.14,11,2023-09-01,1028,Texas,PayPal,1145.54,9
+912,166,Books,Mobile,310.31,5,2023-06-14,1072,Texas,Debit Card,1551.55,6
+913,195,Clothing,Fruit,372.73,4,2022-11-23,1067,Texas,Credit Card,1490.92,11
+914,166,Electronics,Shirt,370.27,12,2022-04-07,1050,New York,Debit Card,4443.24,4
+915,126,Groceries,Pants,263.12,2,2023-05-28,1023,Florida,PayPal,526.24,5
+916,192,Electronics,Laptop,38.89,13,2022-08-04,1013,Texas,Debit Card,505.57,8
+917,131,Electronics,Action Figure,188.7,10,2022-05-12,1068,Florida,Debit Card,1887.0,5
+918,149,Books,Shirt,460.78,9,2022-09-17,1017,Texas,PayPal,4147.0199999999995,9
+919,160,Clothing,Laptop,294.3,10,2022-05-05,1041,Illinois,Cash,2943.0,5
+920,150,Groceries,Board Game,271.47,7,2022-03-23,1056,Illinois,PayPal,1900.2900000000002,3
+921,118,Toys,Action Figure,138.08,4,2022-10-10,1082,Illinois,Cash,552.32,10
+922,120,Toys,Fiction,187.38,19,2023-11-14,1011,California,PayPal,3560.22,11
+923,104,Electronics,Vegetable,448.2,10,2022-02-28,1081,Texas,PayPal,4482.0,2
+924,181,Books,Mobile,334.9,3,2023-06-28,1016,California,PayPal,1004.6999999999999,6
+925,191,Books,Fruit,394.76,19,2022-06-10,1029,Florida,Credit Card,7500.44,6
+926,141,Toys,Shirt,229.9,2,2022-10-11,1087,California,Cash,459.8,10
+927,160,Groceries,Mobile,316.97,10,2022-04-16,1074,Florida,Credit Card,3169.7000000000003,4
+928,121,Clothing,Pants,127.95,2,2022-04-15,1098,Florida,PayPal,255.9,4
+929,120,Groceries,Laptop,354.2,2,2023-03-15,1022,Florida,Debit Card,708.4,3
+930,169,Clothing,Laptop,216.66,17,2022-08-16,1080,California,Credit Card,3683.22,8
+931,100,Toys,Shirt,224.06,16,2023-12-01,1000,Texas,Cash,3584.96,12
+932,104,Clothing,Non-fiction,326.41,16,2023-08-05,1078,California,PayPal,5222.56,8
+933,111,Books,Non-fiction,468.46,14,2022-11-14,1031,Texas,Credit Card,6558.44,11
+934,189,Electronics,Fiction,36.68,7,2023-04-09,1008,Texas,Debit Card,256.76,4
+935,145,Electronics,Vegetable,413.25,11,2023-08-22,1014,Florida,Credit Card,4545.75,8
+936,133,Toys,Action Figure,149.73,1,2023-04-17,1027,California,Cash,149.73,4
+937,148,Books,Pants,224.74,11,2022-02-25,1023,Texas,Credit Card,2472.1400000000003,2
+938,177,Groceries,Mobile,15.85,4,2023-09-17,1059,Illinois,Debit Card,63.4,9
+939,189,Books,Non-fiction,154.02,7,2022-01-13,1034,Texas,Debit Card,1078.14,1
+940,144,Electronics,Fiction,253.8,15,2023-03-16,1085,Illinois,Cash,3807.0,3
+941,126,Electronics,Fiction,32.81,18,2022-01-18,1026,California,Debit Card,590.58,1
+942,172,Books,Shirt,248.09,12,2023-11-25,1082,California,PayPal,2977.08,11
+943,125,Books,Pants,463.92,17,2022-04-23,1075,California,Debit Card,7886.64,4
+944,146,Electronics,Board Game,57.17,1,2022-08-17,1019,Texas,PayPal,57.17,8
+945,185,Groceries,Action Figure,383.4,11,2022-06-20,1064,New York,Credit Card,4217.4,6
+946,155,Toys,Vegetable,207.79,1,2022-10-22,1084,Texas,PayPal,207.79,10
+947,193,Toys,Fruit,329.31,15,2022-07-08,1048,Texas,PayPal,4939.65,7
+948,162,Books,Shirt,133.82,10,2023-03-02,1000,Florida,Credit Card,1338.1999999999998,3
+949,147,Toys,Action Figure,83.95,7,2022-03-20,1009,Florida,Debit Card,587.65,3
+950,160,Electronics,Fruit,84.43,2,2023-10-20,1046,Texas,PayPal,168.86,10
+951,180,Electronics,Fruit,39.89,10,2022-07-01,1058,Illinois,Debit Card,398.9,7
+952,125,Books,Pants,96.9,4,2023-05-14,1095,Florida,Credit Card,387.6,5
+953,135,Books,Pants,333.79,12,2023-12-09,1061,Texas,Cash,4005.4800000000005,12
+954,100,Books,Mobile,441.44,19,2022-03-12,1085,New York,Debit Card,8387.36,3
+955,107,Groceries,Fiction,407.99,11,2022-09-05,1017,Illinois,Debit Card,4487.89,9
+956,198,Toys,Action Figure,344.14,8,2022-05-26,1045,California,Cash,2753.12,5
+957,151,Books,Shirt,59.66,18,2023-09-10,1031,Texas,Cash,1073.8799999999999,9
+958,178,Clothing,Laptop,148.15,11,2022-10-23,1026,Texas,Credit Card,1629.65,10
+959,146,Clothing,Shirt,158.35,11,2023-08-05,1091,Illinois,Debit Card,1741.85,8
+960,155,Electronics,Mobile,128.73,13,2023-04-15,1017,Florida,Debit Card,1673.4899999999998,4
+961,185,Toys,Vegetable,259.93,3,2023-05-21,1038,Florida,Credit Card,779.79,5
+962,113,Books,Fiction,270.1,12,2022-07-12,1048,Florida,Debit Card,3241.2000000000003,7
+963,189,Clothing,Laptop,181.66,3,2022-03-09,1092,California,PayPal,544.98,3
+964,127,Toys,Non-fiction,180.13,10,2023-05-09,1081,Illinois,PayPal,1801.3,5
+965,186,Electronics,Vegetable,415.14,17,2022-02-21,1043,Illinois,PayPal,7057.38,2
+966,177,Groceries,Pants,395.7,2,2022-12-29,1071,Florida,Debit Card,791.4,12
+967,187,Toys,Fruit,157.36,17,2023-04-19,1053,Florida,PayPal,2675.1200000000003,4
+968,101,Toys,Non-fiction,457.33,16,2023-06-05,1094,New York,PayPal,7317.28,6
+969,125,Groceries,Shirt,476.64,2,2023-03-07,1033,New York,Credit Card,953.28,3
+970,113,Toys,Shirt,166.74,6,2022-10-25,1070,Texas,Credit Card,1000.44,10
+971,158,Electronics,Pants,180.44,10,2023-03-11,1035,Texas,Cash,1804.4,3
+972,155,Electronics,Mobile,255.29,10,2023-11-27,1017,Illinois,Cash,2552.9,11
+973,106,Groceries,Action Figure,470.85,8,2023-11-22,1037,Illinois,Cash,3766.8,11
+974,102,Books,Non-fiction,438.78,1,2022-07-17,1058,California,Cash,438.78,7
+975,122,Clothing,Non-fiction,55.77,13,2022-05-08,1008,California,Credit Card,725.01,5
+976,117,Books,Board Game,199.4,9,2023-06-16,1072,New York,Credit Card,1794.6000000000001,6
+977,137,Toys,Vegetable,278.92,10,2023-02-15,1071,Texas,Credit Card,2789.2000000000003,2
+978,198,Clothing,Fiction,254.05,15,2022-03-06,1050,New York,PayPal,3810.75,3
+979,114,Groceries,Vegetable,100.96,5,2023-11-25,1034,New York,PayPal,504.79999999999995,11
+980,163,Groceries,Action Figure,430.11,16,2022-08-29,1081,Texas,Cash,6881.76,8
+981,188,Clothing,Shirt,340.09,13,2023-01-04,1004,California,PayPal,4421.17,1
+982,127,Electronics,Shirt,419.76,18,2023-06-20,1013,Texas,Debit Card,7555.68,6
+983,173,Clothing,Shirt,430.09,11,2023-01-19,1091,Florida,Credit Card,4730.99,1
+984,138,Toys,Board Game,375.44,9,2023-03-07,1029,Florida,Cash,3378.96,3
+985,156,Electronics,Shirt,222.41,16,2022-03-24,1003,Florida,Cash,3558.56,3
+986,116,Groceries,Action Figure,307.22,2,2023-11-28,1038,Illinois,Debit Card,614.44,11
+987,185,Clothing,Pants,84.38,2,2023-09-03,1083,California,PayPal,168.76,9
+988,189,Books,Fiction,338.45,12,2023-07-28,1063,California,Cash,4061.3999999999996,7
+989,143,Books,Action Figure,93.73,8,2022-10-13,1024,Illinois,PayPal,749.84,10
+990,124,Toys,Fiction,348.51,9,2023-06-18,1027,New York,PayPal,3136.59,6
+991,116,Books,Action Figure,118.65,12,2023-04-04,1075,Florida,Debit Card,1423.8000000000002,4
+992,112,Clothing,Shirt,63.19,9,2022-07-31,1065,Florida,Cash,568.71,7
+993,183,Clothing,Pants,86.82,10,2022-05-06,1077,New York,PayPal,868.1999999999999,5
+994,124,Books,Non-fiction,5.99,2,2023-02-17,1021,Texas,PayPal,11.98,2
+995,167,Clothing,Vegetable,360.78,16,2023-05-14,1030,Texas,Debit Card,5772.48,5
+996,109,Toys,Fruit,367.54,7,2023-03-01,1022,California,Debit Card,2572.78,3
+997,166,Electronics,Pants,259.89,2,2023-07-08,1047,Illinois,PayPal,519.78,7
+998,117,Toys,Non-fiction,84.87,1,2023-09-02,1019,California,Debit Card,84.87,9
+999,199,Toys,Mobile,46.36,19,2023-06-27,1037,Texas,PayPal,880.84,6
+1000,185,Clothing,Action Figure,14.47,4,2022-06-07,1054,New York,Cash,57.88,6
